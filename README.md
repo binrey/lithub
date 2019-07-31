@@ -9,5 +9,5 @@ Grad-CAM:Visual Explanations from Deep Networks via Gradient-based Localization 
 # GAN
 
 BEGAN: Boundary Equilibrium Generative Adversarial Networks | 2017 | [link](https://arxiv.org/pdf/1703.10717.pdf) | [github]
-Generative Adversarial Nets | 2014 | [link](https://arxiv.org/pdf/1406.2661.pdf)
-UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS
+Generative Adversarial Nets | 2014 | [link](https://arxiv.org/pdf/1406.2661.pdf)    
+Unsupervised Representation Learning with Deep Conv. GANs | 2016 | [link](https://arxiv.org/pdf/1511.06434.pdf)
