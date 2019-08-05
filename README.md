@@ -12,3 +12,4 @@ BEGAN: Boundary Equilibrium Generative Adversarial Networks | 2017 | [link](http
 Generative Adversarial Nets | 2014 | [link](https://arxiv.org/pdf/1406.2661.pdf)    
 Unsupervised Representation Learning with Deep Conv. GANs | 2016 | [link](https://arxiv.org/pdf/1511.06434.pdf)    
 Keras-GANs [link](https://github.com/eriklindernoren/Keras-GAN)
+Conditional Image Synthesis with Auxiliary Classifier GANs [link](https://arxiv.org/pdf/1610.09585.pdf)
