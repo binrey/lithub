@@ -9,6 +9,8 @@ Grad-CAM:Visual Explanations from Deep Networks via Gradient-based Localization 
 # GAN
 
 Keras-GANs [link](https://github.com/eriklindernoren/Keras-GAN)    
+Keras GAN for MNIST [link](https://app.getpocket.com/read/1751108725)    
+How to Develop a GAN for Generating Handwritten Digits [link](https://app.getpocket.com/read/2640572501)    
 BEGAN: Boundary Equilibrium Generative Adversarial Networks | 2017 | [link](https://arxiv.org/pdf/1703.10717.pdf)   
 GAN: Generative Adversarial Nets | 2014 | [link](https://arxiv.org/pdf/1406.2661.pdf)    
 DCGAN: Unsupervised Representation Learning with Deep Conv. GANs | 2016 | [link](https://arxiv.org/pdf/1511.06434.pdf)    
