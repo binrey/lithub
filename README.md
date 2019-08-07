@@ -7,10 +7,13 @@ Adaptive Deconvolutional Networks for Mid and High Level Feature Learning | 2011
 Grad-CAM:Visual Explanations from Deep Networks via Gradient-based Localization | 2017 | [link](https://arxiv.org/abs/1610.02391) | [github](https://github.com/binrey/lithub/blob/master/data/Grad-CAM:%20Visual%20Explanations%20from%20Deep%20Networks...%202017.pdf)
 
 # GAN
-
+## Artickles
 Keras-GANs [link](https://github.com/eriklindernoren/Keras-GAN)    
 Keras GAN for MNIST [link](https://app.getpocket.com/read/1751108725)    
 How to Develop a GAN for Generating Handwritten Digits [link](https://app.getpocket.com/read/2640572501)    
+GAN hacks [link](https://github.com/soumith/ganhacks)    
+BEGAN-tensorflow [link](https://github.com/fabulousjeong/began-tensorflow)    
+## Papers
 BEGAN: Boundary Equilibrium Generative Adversarial Networks | 2017 | [link](https://arxiv.org/pdf/1703.10717.pdf)   
 GAN: Generative Adversarial Nets | 2014 | [link](https://arxiv.org/pdf/1406.2661.pdf)    
 DCGAN: Unsupervised Representation Learning with Deep Conv. GANs | 2016 | [link](https://arxiv.org/pdf/1511.06434.pdf)    
