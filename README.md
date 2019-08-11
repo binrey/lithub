@@ -8,16 +8,16 @@ Grad-CAM:Visual Explanations from Deep Networks via Gradient-based Localization 
 
 # GAN
 ## Artickles
-Keras-GANs [link](https://github.com/eriklindernoren/Keras-GAN)    
-Keras GAN for MNIST [link](https://app.getpocket.com/read/1751108725)    
-How to Develop a GAN for Generating Handwritten Digits [link](https://app.getpocket.com/read/2640572501)    
-GAN hacks [link](https://github.com/soumith/ganhacks)    
-BEGAN-tensorflow [link](https://github.com/fabulousjeong/began-tensorflow)    
-https://github.com/utkd/gans/blob/master/cifar10cgan.ipynb
+Keras-GANs | [link](https://github.com/eriklindernoren/Keras-GAN)    
+Keras GAN for MNIST | [link](https://app.getpocket.com/read/1751108725)    
+How to Develop a GAN for Generating Handwritten Digits | [link](https://app.getpocket.com/read/2640572501)    
+GAN hacks | [link](https://github.com/soumith/ganhacks)    
+BEGAN-tensorflow | [link](https://github.com/fabulousjeong/began-tensorflow)    
+COND DCGAN-tensorflow | [link](https://github.com/utkd/gans/blob/master/cifar10cgan.ipynb)
 ## Papers
 BEGAN: Boundary Equilibrium Generative Adversarial Networks | 2017 | [link](https://arxiv.org/pdf/1703.10717.pdf)   
 GAN: Generative Adversarial Nets | 2014 | [link](https://arxiv.org/pdf/1406.2661.pdf)    
 DCGAN: Unsupervised Representation Learning with Deep Conv. GANs | 2016 | [link](https://arxiv.org/pdf/1511.06434.pdf)    
-CA-GAN: Conditional Image Synthesis with Auxiliary Classifier GANs [link](https://arxiv.org/pdf/1610.09585.pdf)    
-Image-to-Image Translation with Conditional Adversarial Networks [link](https://arxiv.org/pdf/1611.07004v1.pdf)   
+CA-GAN: Conditional Image Synthesis with Auxiliary Classifier GANs | [link](https://arxiv.org/pdf/1610.09585.pdf)    
+Image-to-Image Translation with Conditional Adversarial Networks | [link](https://arxiv.org/pdf/1611.07004v1.pdf)   
 https://arxiv.org/pdf/1802.05637.pdf
