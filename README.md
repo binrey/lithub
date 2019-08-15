@@ -19,8 +19,10 @@ BEGAN: Boundary Equilibrium Generative Adversarial Networks | 2017 | [link](http
 GAN: Generative Adversarial Nets | 2014 | [link](https://arxiv.org/pdf/1406.2661.pdf)    
 DCGAN: Unsupervised Representation Learning with Deep Conv. GANs | 2016 | [link](https://arxiv.org/pdf/1511.06434.pdf)    
 CA-GAN: Conditional Image Synthesis with Auxiliary Classifier GANs | [link](https://arxiv.org/pdf/1610.09585.pdf)    
+CycleGAN: Unpaired Image-to-Image Translation using Cycle-GANs | 2018 | [link](https://arxiv.org/pdf/1703.10593.pdf)    
 Image-to-Image Translation with Conditional Adversarial Networks | [link](https://arxiv.org/pdf/1611.07004v1.pdf)   
-CGANS with Projection Discriminator | [link](https://arxiv.org/pdf/1802.05637.pdf)
+CGANS with Projection Discriminator | [link](https://arxiv.org/pdf/1802.05637.pdf)    
+NIPS 2016 Tutorial: Generative Adversarial Networks | 2016 | [link](https://arxiv.org/pdf/1701.00160.pdf)    
 
 # Pruning & Weight sparsity
 ## Articles
