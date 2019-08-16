@@ -13,6 +13,8 @@ Keras-GANs | [link](https://github.com/eriklindernoren/Keras-GAN)
 COND DCGAN-tensorflow | [link](https://github.com/utkd/gans/blob/master/cifar10cgan.ipynb)    
 BEGAN-tensorflow | [link](https://github.com/fabulousjeong/began-tensorflow)   
 How to Develop a GAN for Generating Handwritten Digits | [link](https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-an-mnist-handwritten-digits-from-scratch-in-keras/)    
+TF-Unrolled-GAN | [link](https://github.com/gokul-uf/TF-Unrolled-GAN/blob/master/model.py)    
+Unrolled-GAN simple example [link] | (https://github.com/poolio/unrolled_gan/blob/master/Unrolled%20GAN%20demo.ipynb)
 
 ## Articles
 BEGAN: Boundary Equilibrium Generative Adversarial Networks | 2017 | [link](https://arxiv.org/pdf/1703.10717.pdf)   
