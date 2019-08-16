@@ -18,10 +18,10 @@ Unrolled-GAN. Simple example in jup-notebook | [link](https://github.com/poolio/
 
 ## Articles
 GAN: Generative Adversarial Nets | 2014 | [link](https://arxiv.org/pdf/1406.2661.pdf)    
-Image-to-Image Translation with Conditional Adversarial Networks | 2016| [link](https://arxiv.org/pdf/1611.07004v1.pdf)    
+Image-to-Image Translation with Conditional Adversarial Networks | 2016 | [link](https://arxiv.org/pdf/1611.07004v1.pdf)    
 DCGAN: Unsupervised Representation Learning with Deep Conv. GANs | 2016 | [link](https://arxiv.org/pdf/1511.06434.pdf)    
 NIPS 2016 Tutorial: Generative Adversarial Networks | 2016 | [link](https://arxiv.org/pdf/1701.00160.pdf)    
-CA-GAN: Conditional Image Synthesis with Auxiliary Classifier GANs | 2016| [link](https://arxiv.org/pdf/1610.09585.pdf)    
+CA-GAN: Conditional Image Synthesis with Auxiliary Classifier GANs | 2016 | [link](https://arxiv.org/pdf/1610.09585.pdf)    
 BEGAN: Boundary Equilibrium Generative Adversarial Networks | 2017 | [link](https://arxiv.org/pdf/1703.10717.pdf)   
 Unrolled GANs | 2017 | [link](https://arxiv.org/pdf/1611.02163.pdf)    
 CycleGAN: Unpaired Image-to-Image Translation using Cycle-GANs | 2018 | [link](https://arxiv.org/pdf/1703.10593.pdf)    
