@@ -13,19 +13,21 @@ Keras-GANs | [link](https://github.com/eriklindernoren/Keras-GAN)
 COND DCGAN-tensorflow | [link](https://github.com/utkd/gans/blob/master/cifar10cgan.ipynb)    
 BEGAN-tensorflow | [link](https://github.com/fabulousjeong/began-tensorflow)   
 How to Develop a GAN for Generating Handwritten Digits | [link](https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-an-mnist-handwritten-digits-from-scratch-in-keras/)    
-TF-Unrolled-GAN | [link](https://github.com/gokul-uf/TF-Unrolled-GAN/blob/master/model.py)    
-Unrolled-GAN simple example [link] | (https://github.com/poolio/unrolled_gan/blob/master/Unrolled%20GAN%20demo.ipynb)
+Unrolled-GAN. Tensorflow model | [link](https://github.com/gokul-uf/TF-Unrolled-GAN/blob/master/model.py)    
+Unrolled-GAN. Simple example in jup-notebook | [link](https://github.com/poolio/unrolled_gan/blob/master/Unrolled%20GAN%20demo.ipynb)    
 
 ## Articles
-BEGAN: Boundary Equilibrium Generative Adversarial Networks | 2017 | [link](https://arxiv.org/pdf/1703.10717.pdf)   
 GAN: Generative Adversarial Nets | 2014 | [link](https://arxiv.org/pdf/1406.2661.pdf)    
+Image-to-Image Translation with Conditional Adversarial Networks | 2016| [link](https://arxiv.org/pdf/1611.07004v1.pdf)    
 DCGAN: Unsupervised Representation Learning with Deep Conv. GANs | 2016 | [link](https://arxiv.org/pdf/1511.06434.pdf)    
-CA-GAN: Conditional Image Synthesis with Auxiliary Classifier GANs | [link](https://arxiv.org/pdf/1610.09585.pdf)    
-CycleGAN: Unpaired Image-to-Image Translation using Cycle-GANs | 2018 | [link](https://arxiv.org/pdf/1703.10593.pdf)    
-Image-to-Image Translation with Conditional Adversarial Networks | [link](https://arxiv.org/pdf/1611.07004v1.pdf)   
-CGANS with Projection Discriminator | [link](https://arxiv.org/pdf/1802.05637.pdf)    
 NIPS 2016 Tutorial: Generative Adversarial Networks | 2016 | [link](https://arxiv.org/pdf/1701.00160.pdf)    
+CA-GAN: Conditional Image Synthesis with Auxiliary Classifier GANs | 2016| [link](https://arxiv.org/pdf/1610.09585.pdf)    
+BEGAN: Boundary Equilibrium Generative Adversarial Networks | 2017 | [link](https://arxiv.org/pdf/1703.10717.pdf)   
+Unrolled GANs | 2017 | [link](https://arxiv.org/pdf/1611.02163.pdf)    
+CycleGAN: Unpaired Image-to-Image Translation using Cycle-GANs | 2018 | [link](https://arxiv.org/pdf/1703.10593.pdf)    
+CGANS with Projection Discriminator | 2018 | [link](https://arxiv.org/pdf/1802.05637.pdf)    
 GAN hacks | [link](https://github.com/soumith/ganhacks)    
+GAN Series (from the beginning to the end) | [link](https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b)
 
 # Pruning & Weight sparsity
 ## Articles
