@@ -40,3 +40,6 @@ Learning Sparse Neural Networks via Sensitivity-Driven Regularization | 2018 | [
 The Difficulty of Training Sparse Neural Networks | 2019 | [link](https://openreview.net/pdf?id=SyeyPEH23N)  
 Pruned and Structurally Sparse Neural Networks | 2018 | [link](https://arxiv.org/pdf/1810.00299.pdf)  
 Submanifold Sparse Convolutional Networks | 2017 | [link](https://arxiv.org/pdf/1706.01307.pdf)  
+
+Sparse, Quantized, Full Frame CNN for Low Power Embedded Devices - Texas Instruments | [link](
+http://openaccess.thecvf.com/content_cvpr_2017_workshops/w4/papers/Mathew_Sparse_Quantized_Full_CVPR_2017_paper.pdf)
