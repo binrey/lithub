@@ -42,4 +42,5 @@ Pruned and Structurally Sparse Neural Networks | 2018 | [link](https://arxiv.org
 Submanifold Sparse Convolutional Networks | 2017 | [link](https://arxiv.org/pdf/1706.01307.pdf)  
 
 Sparse, Quantized, Full Frame CNN for Low Power Embedded Devices - Texas Instruments | [link](
-http://openaccess.thecvf.com/content_cvpr_2017_workshops/w4/papers/Mathew_Sparse_Quantized_Full_CVPR_2017_paper.pdf)
+http://openaccess.thecvf.com/content_cvpr_2017_workshops/w4/papers/Mathew_Sparse_Quantized_Full_CVPR_2017_paper.pdf)   
+Ristretto: Hardware-Oriented Approximation of Convolutional Neural Networks | 2016 | [link](https://arxiv.org/pdf/1605.06402.pdf)
