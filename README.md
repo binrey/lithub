@@ -43,4 +43,5 @@ Submanifold Sparse Convolutional Networks | 2017 | [link](https://arxiv.org/pdf/
 
 Sparse, Quantized, Full Frame CNN for Low Power Embedded Devices - Texas Instruments | [link](
 http://openaccess.thecvf.com/content_cvpr_2017_workshops/w4/papers/Mathew_Sparse_Quantized_Full_CVPR_2017_paper.pdf)   
-Ristretto: Hardware-Oriented Approximation of Convolutional Neural Networks | 2016 | [link](https://arxiv.org/pdf/1605.06402.pdf)
+Ristretto: Hardware-Oriented Approximation of Convolutional Neural Networks | 2016 | [link](https://arxiv.org/pdf/1605.06402.pdf)    
+How to Quantize Neural Networks with TensorFlow | 2016 | [link](https://petewarden.com/2016/05/03/how-to-quantize-neural-networks-with-tensorflow/)
