@@ -47,3 +47,7 @@ http://openaccess.thecvf.com/content_cvpr_2017_workshops/w4/papers/Mathew_Sparse
 Ristretto: Hardware-Oriented Approximation of Convolutional Neural Networks | 2016 | [link](https://arxiv.org/pdf/1605.06402.pdf)    
 How to Quantize Neural Networks with TensorFlow | 2016 | [link](https://petewarden.com/2016/05/03/how-to-quantize-neural-networks-with-tensorflow/)    
 Quantizing deep convolutional networks for efficient inference: A whitepaper | 2018 | [link](https://arxiv.org/pdf/1806.08342.pdf)
+
+# Object detection
+## Articles
+A Survey of the Recent Architectures of Deep Convolutional Neural Networks | 2019 | [link]()    
