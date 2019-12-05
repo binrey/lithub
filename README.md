@@ -51,3 +51,4 @@ Quantizing deep convolutional networks for efficient inference: A whitepaper | 2
 # Object detection
 ## Articles
 A Survey of the Recent Architectures of Deep Convolutional Neural Networks | 2019 | [link](https://github.com/binrey/lithub/blob/master/data/A%20Survey%20of%20the%20Recent%20Architectures%20of%20Deep%20Convolutional%20Neural%20Networks%202019.pdf)    
+Object Detection List | [link](https://github.com/hoya012/deep_learning_object_detection)    
