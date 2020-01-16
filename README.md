@@ -63,3 +63,7 @@ Object Detection List | [link](https://github.com/hoya012/deep_learning_object_d
 Machine learning suffers from a fundamental problem. While machines are able to
 learn complex prediction rules by minimizing their training error, data are often
 marred by selection biases, confounding factors, and other peculiarities [link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.208.2314&rep=rep1&type=pdf), [link](https://arxiv.org/abs/1606.08390)    
+Understanding which
+patterns are useful has been previously studied as a correlation-versus-causation
+dilemma, since spurious correlations stemming from data biases are unrelated to the
+causal explanation of interest [link](https://arxiv.org/abs/1607.03300), [link](https://arxiv.org/abs/1604.00289), [link](https://arxiv.org/abs/1801.00631)    
