@@ -58,3 +58,8 @@ Deep Learning for Generic Object Detection: A Survey | 2019 | [link](https://arx
 Rethinking ImageNet Pre-training | 2018 | [link](https://arxiv.org/pdf/1811.08883.pdf)    
 Do Better ImageNet Models Transfer Better? | 2019 | [link](https://arxiv.org/pdf/1805.08974.pdf)     
 Object Detection List | [link](https://github.com/hoya012/deep_learning_object_detection)    
+
+# Machine learning sentenses
+Machine learning suffers from a fundamental problem. While machines are able to
+learn complex prediction rules by minimizing their training error, data are often
+marred by selection biases, confounding factors, and other peculiarities [link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.208.2314&rep=rep1&type=pdf), [link](https://arxiv.org/abs/1606.08390)    
