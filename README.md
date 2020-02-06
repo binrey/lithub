@@ -31,6 +31,7 @@ GAN hacks | [link](https://github.com/soumith/ganhacks)
 GAN Series (from the beginning to the end) | [link](https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b)    
 Generation of Natural Traffic Sign | [link](https://github.com/binrey/lithub/blob/master/data/Signs%20with%20CycleGan.pdf)   
 Achieving Robustness in the Wild via Adversarial Mixing with Disentangled Representationshttps | 2019 | [link](https://arxiv.org/pdf/1912.03192.pdf)    
+Image-to-Image Translation with Conditional Adversarial Networks (Pix2Pix) | 2018 | [link](https://arxiv.org/pdf/1611.07004.pdf)    
 
 # Pruning & Weight sparsity
 ## Articles
