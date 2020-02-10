@@ -16,6 +16,7 @@ BEGAN-tensorflow | [link](https://github.com/fabulousjeong/began-tensorflow)
 How to Develop a GAN for Generating Handwritten Digits | [link](https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-an-mnist-handwritten-digits-from-scratch-in-keras/)    
 Unrolled-GAN. Tensorflow model | [link](https://github.com/gokul-uf/TF-Unrolled-GAN/blob/master/model.py)    
 Unrolled-GAN. Simple example in jup-notebook | [link](https://github.com/poolio/unrolled_gan/blob/master/Unrolled%20GAN%20demo.ipynb)   
+Trafficsign cyclegan |[link](https://github.com/Spataner/trafficsign-cyclegan)    
 
 ## Articles
 GAN: Generative Adversarial Nets | 2014 | [link](https://arxiv.org/pdf/1406.2661.pdf)    
