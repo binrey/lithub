@@ -33,6 +33,7 @@ GAN Series (from the beginning to the end) | [link](https://medium.com/@jonathan
 Generation of Natural Traffic Sign | [link](https://github.com/binrey/lithub/blob/master/data/Signs%20with%20CycleGan.pdf)   
 Achieving Robustness in the Wild via Adversarial Mixing with Disentangled Representationshttps | 2019 | [link](https://arxiv.org/pdf/1912.03192.pdf)    
 Image-to-Image Translation with Conditional Adversarial Networks (Pix2Pix) | 2018 | [link](https://arxiv.org/pdf/1611.07004.pdf)    
+Instance Normalization | 2017 | [link](https://arxiv.org/pdf/1607.08022.pdf)    
 
 # Pruning & Weight sparsity
 ## Articles
