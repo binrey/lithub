@@ -34,6 +34,7 @@ Generation of Natural Traffic Sign | [link](https://github.com/binrey/lithub/blo
 Achieving Robustness in the Wild via Adversarial Mixing with Disentangled Representationshttps | 2019 | [link](https://arxiv.org/pdf/1912.03192.pdf)    
 Image-to-Image Translation with Conditional Adversarial Networks (Pix2Pix) | 2018 | [link](https://arxiv.org/pdf/1611.07004.pdf)    
 Instance Normalization | 2017 | [link](https://arxiv.org/pdf/1607.08022.pdf)    
+Improved Techniques for Training GANs |2016 | [link](https://arxiv.org/pdf/1606.03498v1.pdf)    
 
 # Pruning & Weight sparsity
 ## Articles
