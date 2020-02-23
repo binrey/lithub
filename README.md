@@ -74,3 +74,4 @@ patterns are useful has been previously studied as a correlation-versus-causatio
 dilemma, since spurious correlations stemming from data biases are unrelated to the
 causal explanation of interest [1](https://arxiv.org/abs/1607.03300.pdf), [2](https://arxiv.org/abs/1604.00289.pdf), [3](https://arxiv.org/abs/1801.00631.pdf)    
 * Generating pixellevel adversarial perturbations has been and remains extensively studied [1](https://arxiv.org/abs/1312.6199), [2](https://arxiv.org/pdf/1412.6572.pdf)
+* Perseptual loss [1](https://arxiv.org/pdf/1511.06434.pdf)
