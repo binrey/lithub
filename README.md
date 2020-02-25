@@ -57,7 +57,7 @@ Quantizing deep convolutional networks for efficient inference: A whitepaper | 2
 # Object detection
 ## Articles and Sites
 A Survey of the Recent Architectures of Deep Convolutional Neural Networks | 2019 | [link](https://github.com/binrey/lithub/blob/master/data/A%20Survey%20of%20the%20Recent%20Architectures%20of%20Deep%20Convolutional%20Neural%20Networks%202019.pdf)   
-Exploring the Origins and Prevalence of Texture Bias in Convolutional Neural Networks | 2019 | [link](Exploring the Origins and Prevalence of Texture Bias in Convolutional Neural Networks)    
+Exploring the Origins and Prevalence of Texture Bias in Convolutional Neural Networks | 2019 | [link](https://arxiv.org/pdf/1911.09071.pdf)    
 ShuffleNet | 2017 | [link](https://arxiv.org/pdf/1707.01083.pdf)    
 ResNet-38 | 2016 | [link](https://arxiv.org/pdf/1611.10080.pdf)    
 Deep Learning for Generic Object Detection: A Survey | 2019 | [link](https://arxiv.org/pdf/1809.02165.pdf)    
