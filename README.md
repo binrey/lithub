@@ -67,8 +67,7 @@ Object Detection List | [link](https://github.com/hoya012/deep_learning_object_d
 
 # Semi-Supervised learning
 ## Articles
-FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence | 2001 | [link](FixMatch: Simplifying Semi-Supervised Learning with
-Consistency and Confidence)
+FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence | 2001 | [link](https://arxiv.org/pdf/2001.07685.pdf)    
 # Machine learning sentenses
 * Machine learning suffers from a fundamental problem. While machines are able to
 learn complex prediction rules by minimizing their training error, data are often
