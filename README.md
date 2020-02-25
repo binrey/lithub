@@ -65,6 +65,10 @@ Rethinking ImageNet Pre-training | 2018 | [link](https://arxiv.org/pdf/1811.0888
 Do Better ImageNet Models Transfer Better? | 2019 | [link](https://arxiv.org/pdf/1805.08974.pdf)     
 Object Detection List | [link](https://github.com/hoya012/deep_learning_object_detection)    
 
+# Semi-Supervised learning
+## Articles
+FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence | 2001 | [link](FixMatch: Simplifying Semi-Supervised Learning with
+Consistency and Confidence)
 # Machine learning sentenses
 * Machine learning suffers from a fundamental problem. While machines are able to
 learn complex prediction rules by minimizing their training error, data are often
