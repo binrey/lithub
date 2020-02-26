@@ -35,7 +35,8 @@ Generation of Natural Traffic Sign | [link](https://github.com/binrey/lithub/blo
 Achieving Robustness in the Wild via Adversarial Mixing with Disentangled Representationshttps | 2019 | [link](https://arxiv.org/pdf/1912.03192.pdf)    
 Image-to-Image Translation with Conditional Adversarial Networks (Pix2Pix) | 2018 | [link](https://arxiv.org/pdf/1611.07004.pdf)    
 Instance Normalization | 2017 | [link](https://arxiv.org/pdf/1607.08022.pdf)    
-Improved Techniques for Training GANs |2016 | [link](https://arxiv.org/pdf/1606.03498v1.pdf)    
+Improved Techniques for Training GANs | 2016 | [link](https://arxiv.org/pdf/1606.03498v1.pdf)    
+Perceptual Losses for Real-Time Style Transfer and Super-Resolution | 2016 | [link](https://arxiv.org/pdf/1603.08155.pdf)    
 
 # Pruning & Weight sparsity
 ## Articles
@@ -78,4 +79,3 @@ patterns are useful has been previously studied as a correlation-versus-causatio
 dilemma, since spurious correlations stemming from data biases are unrelated to the
 causal explanation of interest [1](https://arxiv.org/abs/1607.03300.pdf), [2](https://arxiv.org/abs/1604.00289.pdf), [3](https://arxiv.org/abs/1801.00631.pdf)    
 * Generating pixellevel adversarial perturbations has been and remains extensively studied [1](https://arxiv.org/abs/1312.6199), [2](https://arxiv.org/pdf/1412.6572.pdf)
-* Perseptual loss [1](https://arxiv.org/pdf/1511.06434.pdf)
