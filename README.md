@@ -66,6 +66,8 @@ Deep Learning for Generic Object Detection: A Survey | 2019 | [link](https://arx
 Rethinking ImageNet Pre-training | 2018 | [link](https://arxiv.org/pdf/1811.08883.pdf)    
 Do Better ImageNet Models Transfer Better? | 2019 | [link](https://arxiv.org/pdf/1805.08974.pdf)     
 Object Detection List | [link](https://github.com/hoya012/deep_learning_object_detection)    
+Weakly supervised discriminative localization and classification: a joint learning process | 2009 | [github]()    
+Object-centric spatial pooling for image classification | 2012 | [github]()    
 
 # Semi-Supervised learning
 ## Articles
