@@ -71,7 +71,8 @@ Object-centric spatial pooling for image classification | 2012 | [github](data/S
 
 # Semi-Supervised learning
 ## Articles
-FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence | 2001 | [link](https://arxiv.org/pdf/2001.07685.pdf)    
+FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence | 2001 | [link](https://arxiv.org/pdf/2001.07685.pdf)   
+A Simple Framework for Contrastive Learning of Visual Representations | 2020 | [link](https://arxiv.org/pdf/2002.05709.pdf)    
 # Machine learning sentenses
 * Machine learning suffers from a fundamental problem. While machines are able to
 learn complex prediction rules by minimizing their training error, data are often
