@@ -55,7 +55,8 @@ Sparse, Quantized, Full Frame CNN for Low Power Embedded Devices - Texas Instrum
 http://openaccess.thecvf.com/content_cvpr_2017_workshops/w4/papers/Mathew_Sparse_Quantized_Full_CVPR_2017_paper.pdf)   
 Ristretto: Hardware-Oriented Approximation of Convolutional Neural Networks | 2016 | [link](https://arxiv.org/pdf/1605.06402.pdf)    
 How to Quantize Neural Networks with TensorFlow | 2016 | [link](https://petewarden.com/2016/05/03/how-to-quantize-neural-networks-with-tensorflow/)    
-Quantizing deep convolutional networks for efficient inference: A whitepaper | 2018 | [link](https://arxiv.org/pdf/1806.08342.pdf)
+Quantizing deep convolutional networks for efficient inference: A whitepaper | 2018 | [link](https://arxiv.org/pdf/1806.08342.pdf)    
+Do We Really Need Model Compression? | [link](http://mitchgordon.me/machine/learning/2020/01/13/do-we-really-need-model-compression.html)    
 
 # Object detection
 ## Articles and Sites
