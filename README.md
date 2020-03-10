@@ -67,7 +67,8 @@ Rethinking ImageNet Pre-training | 2018 | [link](https://arxiv.org/pdf/1811.0888
 Do Better ImageNet Models Transfer Better? | 2019 | [link](https://arxiv.org/pdf/1805.08974.pdf)     
 Object Detection List | [link](https://github.com/hoya012/deep_learning_object_detection)    
 Weakly supervised discriminative localization and classification: a joint learning process | 2009 | [github](data/1701.00160.pdf)    
-Object-centric spatial pooling for image classification | 2012 | [github](data/SegSVM_CMU-RI-TR-09-29.pdf)    
+Object-centric spatial pooling for image classification | 2012 | [github](data/SegSVM_CMU-RI-TR-09-29.pdf)   
+5 Significant Object Detection Challenges and Solutions | [link](http://kimberlyfessel.com/algorithms/literature%20reviews/object-detection-challenges/)    
 
 # Semi-Supervised learning
 ## Articles
