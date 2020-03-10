@@ -69,6 +69,7 @@ Object Detection List | [link](https://github.com/hoya012/deep_learning_object_d
 Weakly supervised discriminative localization and classification: a joint learning process | 2009 | [github](data/1701.00160.pdf)    
 Object-centric spatial pooling for image classification | 2012 | [github](data/SegSVM_CMU-RI-TR-09-29.pdf)   
 5 Significant Object Detection Challenges and Solutions | [link](http://kimberlyfessel.com/algorithms/literature%20reviews/object-detection-challenges/)    
+How Much Position Information Do Convolutional Neural Networks Encode? | [link](https://arxiv.org/pdf/2001.08248.pdf)    
 
 # Semi-Supervised learning
 ## Articles
