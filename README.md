@@ -17,8 +17,8 @@ BEGAN-tensorflow | [link](https://github.com/fabulousjeong/began-tensorflow)
 How to Develop a GAN for Generating Handwritten Digits | [link](https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-an-mnist-handwritten-digits-from-scratch-in-keras/)    
 Unrolled-GAN. Tensorflow model | [link](https://github.com/gokul-uf/TF-Unrolled-GAN/blob/master/model.py)    
 Unrolled-GAN. Simple example in jup-notebook | [link](https://github.com/poolio/unrolled_gan/blob/master/Unrolled%20GAN%20demo.ipynb)   
-Trafficsign cyclegan |[link](https://github.com/Spataner/trafficsign-cyclegan)    
-NIPS 2016 Tutorial: Generative Adversarial Networks | [link](https://arxiv.org/pdf/1701.00160.pdf) [github](data/1701.00160.pdf)   
+Trafficsign cyclegan | [link](https://github.com/Spataner/trafficsign-cyclegan)    
+NIPS 2016 Tutorial: Generative Adversarial Networks | [link](https://arxiv.org/pdf/1701.00160.pdf) | [github](data/1701.00160.pdf)   
 
 ## Articles
 GAN: Generative Adversarial Nets | 2014 | [link](https://arxiv.org/pdf/1406.2661.pdf)    
@@ -73,6 +73,7 @@ Object-centric spatial pooling for image classification | 2012 | [github](data/S
 5 Significant Object Detection Challenges and Solutions | [link](http://kimberlyfessel.com/algorithms/literature%20reviews/object-detection-challenges/)    
 How Much Position Information Do Convolutional Neural Networks Encode? | [link](https://arxiv.org/pdf/2001.08248.pdf)    
 Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks | 2016 | [link](https://arxiv.org/pdf/1604.02878.pdf)    
+YOLO9000: Better, Faster, Stronger | 2016 | [link](https://arxiv.org/pdf/1612.08242.pdf)    
 
 # Semi-Supervised learning
 ## Articles
