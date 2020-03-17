@@ -72,6 +72,7 @@ Weakly supervised discriminative localization and classification: a joint learni
 Object-centric spatial pooling for image classification | 2012 | [github](data/SegSVM_CMU-RI-TR-09-29.pdf)   
 5 Significant Object Detection Challenges and Solutions | [link](http://kimberlyfessel.com/algorithms/literature%20reviews/object-detection-challenges/)    
 How Much Position Information Do Convolutional Neural Networks Encode? | [link](https://arxiv.org/pdf/2001.08248.pdf)    
+Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks | 2016 | [link](https://arxiv.org/pdf/1604.02878.pdf)    
 
 # Semi-Supervised learning
 ## Articles
