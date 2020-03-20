@@ -78,7 +78,12 @@ YOLO9000: Better, Faster, Stronger | 2016 | [link](https://arxiv.org/pdf/1612.08
 # Semi-Supervised learning
 ## Articles
 FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence | 2001 | [link](https://arxiv.org/pdf/2001.07685.pdf)   
-A Simple Framework for Contrastive Learning of Visual Representations | 2020 | [link](https://arxiv.org/pdf/2002.05709.pdf)    
+A Simple Framework for Contrastive Learning of Visual Representations | 2020 | [link](https://arxiv.org/pdf/2002.05709.pdf)   
+
+# CNN Calibration
+## Articles
+Calibrating Deep Neural Networks using Focal Loss | 2020 | [link](https://arxiv.org/pdf/2002.09437.pdf)    
+
 # Machine learning sentenses
 * Machine learning suffers from a fundamental problem. While machines are able to
 learn complex prediction rules by minimizing their training error, data are often
