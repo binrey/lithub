@@ -80,6 +80,10 @@ YOLO9000: Better, Faster, Stronger | 2016 | [link](https://arxiv.org/pdf/1612.08
 FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence | 2001 | [link](https://arxiv.org/pdf/2001.07685.pdf)   
 A Simple Framework for Contrastive Learning of Visual Representations | 2020 | [link](https://arxiv.org/pdf/2002.05709.pdf)   
 
+# Semantic segmentation
+## Articles
+Towards Bounding-Box Free Panoptic Segmentation | 2020 | [link](https://arxiv.org/pdf/2002.07705.pdf)
+
 # CNN Calibration
 ## Articles
 Calibrating Deep Neural Networks using Focal Loss | 2020 | [link](https://arxiv.org/pdf/2002.09437.pdf)    
