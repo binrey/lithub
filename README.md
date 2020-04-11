@@ -38,6 +38,7 @@ Image-to-Image Translation with Conditional Adversarial Networks (Pix2Pix) | 201
 Instance Normalization | 2017 | [link](https://arxiv.org/pdf/1607.08022.pdf)    
 Improved Techniques for Training GANs | 2016 | [link](https://arxiv.org/pdf/1606.03498v1.pdf)    
 Perceptual Losses for Real-Time Style Transfer and Super-Resolution | 2016 | [link](https://arxiv.org/pdf/1603.08155.pdf)    
+A U-Net Based Discriminator for Generative Adversarial Networks | 2020 | [link](https://arxiv.org/pdf/2002.12655.pdf)    
 
 # Pruning & Weight sparsity
 ## Articles
