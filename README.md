@@ -87,6 +87,7 @@ A Simple Framework for Contrastive Learning of Visual Representations | 2020 | [
 Towards Bounding-Box Free Panoptic Segmentation | 2020 | [link](https://arxiv.org/pdf/2002.07705.pdf)    
 Learning Deconvolution Network for Semantic Segmentation | 2015 | [link](https://arxiv.org/pdf/1505.04366.pdf)    
 Fully Convolutional Networks for Semantic Segmentation | 2015 | [link](https://arxiv.org/pdf/1411.4038.pdf)    
+DeepLab | 2017 | [link](https://arxiv.org/pdf/1606.00915.pdf)    
 
 # CNN Calibration
 ## Articles
