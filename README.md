@@ -20,6 +20,7 @@ Unrolled-GAN. Simple example in jup-notebook | [link](https://github.com/poolio/
 Trafficsign cyclegan | [link](https://github.com/Spataner/trafficsign-cyclegan)    
 NIPS 2016 Tutorial: Generative Adversarial Networks | [link](https://arxiv.org/pdf/1701.00160.pdf) | [github](data/1701.00160.pdf)    
 Keras-ACGAN-CIFAR10 | [link](https://github.com/King-Of-Knights/Keras-ACGAN-CIFAR10)    
+Cycle-GAN in Keras | [link](https://github.com/MingwangLin/cyclegan-keras)    
 
 ## Articles
 GAN: Generative Adversarial Nets | 2014 | [link](https://arxiv.org/pdf/1406.2661.pdf)    
