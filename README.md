@@ -89,6 +89,8 @@ Towards Bounding-Box Free Panoptic Segmentation | 2020 | [link](https://arxiv.or
 Learning Deconvolution Network for Semantic Segmentation | 2015 | [link](https://arxiv.org/pdf/1505.04366.pdf)    
 Fully Convolutional Networks for Semantic Segmentation | 2015 | [link](https://arxiv.org/pdf/1411.4038.pdf)    
 DeepLab | 2017 | [link](https://arxiv.org/pdf/1606.00915.pdf)    
+Rethinking Atrous Convolution for Semantic Image Segmentation | 2017 | [link](https://arxiv.org/pdf/1706.05587.pdf)    
+Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation | 2018 | [link](https://arxiv.org/pdf/1802.02611.pdf)    
 
 # CNN Calibration
 ## Articles
