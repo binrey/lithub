@@ -1,6 +1,4 @@
-# VISUALIZATION CNN
-
-## Articles and Sites
+## CNN Visualization
 Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps | 2014 | [link](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf) | [github](https://github.com/binrey/lithub/blob/master/data/Deep%20Inside%20Convolutional%20Networks:%20Visualising...%202014.pdf)    
 Visualizing and Understanding Convolutional Networks | 2014 | [link](https://arxiv.org/pdf/1311.2901.pdf) | [github](https://github.com/binrey/lithub/blob/master/data/Visualizing%20and%20Understanding%20Convolutional%20Networks%202014.pdf)   
 Striving for Simplisity: The All Convolutional Net | 2015 | [link](https://arxiv.org/pdf/1412.6806.pdf) | [github](https://github.com/binrey/lithub/blob/master/data/Striving%20for%20Simplisity:%20The%20All%20Convolutional%20Net%202015.pdf)   
@@ -9,8 +7,8 @@ Grad-CAM:Visual Explanations from Deep Networks via Gradient-based Localization 
 Distill | [link](https://distill.pub/)    
 visualization gradient-based methods | [link](http://blog.qure.ai/notes/deep-learning-visualization-gradient-based-methods)    
 
-# GAN
-## Implementations
+## GAN
+#### Implementations
 Keras-GANs | [link](https://github.com/eriklindernoren/Keras-GAN)    
 COND DCGAN-tensorflow | [link](https://github.com/utkd/gans/blob/master/cifar10cgan.ipynb)    
 BEGAN-tensorflow | [link](https://github.com/fabulousjeong/began-tensorflow)   
@@ -22,7 +20,7 @@ NIPS 2016 Tutorial: Generative Adversarial Networks | [link](https://arxiv.org/p
 Keras-ACGAN-CIFAR10 | [link](https://github.com/King-Of-Knights/Keras-ACGAN-CIFAR10)    
 Cycle-GAN in Keras | [link](https://github.com/MingwangLin/cyclegan-keras)    
 
-## Articles
+#### Articles
 GAN: Generative Adversarial Nets | 2014 | [link](https://arxiv.org/pdf/1406.2661.pdf)    
 Image-to-Image Translation with Conditional Adversarial Networks | 2016 | [link](https://arxiv.org/pdf/1611.07004v1.pdf)    
 DCGAN: Unsupervised Representation Learning with Deep Conv. GANs | 2016 | [link](https://arxiv.org/pdf/1511.06434.pdf)    
@@ -42,8 +40,7 @@ Improved Techniques for Training GANs | 2016 | [link](https://arxiv.org/pdf/1606
 Perceptual Losses for Real-Time Style Transfer and Super-Resolution | 2016 | [link](https://arxiv.org/pdf/1603.08155.pdf)    
 A U-Net Based Discriminator for Generative Adversarial Networks | 2020 | [link](https://arxiv.org/pdf/2002.12655.pdf)    
 
-# Pruning & Weight sparsity
-## Articles
+## Pruning & Weight sparsity
 Learning both Weights and Connections for Efficient Neural Networks | 2015 | [link](https://arxiv.org/pdf/1506.02626.pdf)  
 Sparse Convolutional Neural Networks | 2015 | [link](https://zpascal.net/cvpr2015/Liu_Sparse_Convolutional_Neural_2015_CVPR_paper.pdf)  
 Spatially-sparse convolutional neural networks | 2014 | [link](https://arxiv.org/pdf/1409.6070.pdf)  
@@ -61,8 +58,7 @@ How to Quantize Neural Networks with TensorFlow | 2016 | [link](https://peteward
 Quantizing deep convolutional networks for efficient inference: A whitepaper | 2018 | [link](https://arxiv.org/pdf/1806.08342.pdf)    
 Do We Really Need Model Compression? | [link](http://mitchgordon.me/machine/learning/2020/01/13/do-we-really-need-model-compression.html)    
 
-# Object detection
-## Articles and Sites
+## Object detection
 A Survey of the Recent Architectures of Deep Convolutional Neural Networks | 2019 | [link](https://github.com/binrey/lithub/blob/master/data/A%20Survey%20of%20the%20Recent%20Architectures%20of%20Deep%20Convolutional%20Neural%20Networks%202019.pdf)   
 Exploring the Origins and Prevalence of Texture Bias in Convolutional Neural Networks | 2019 | [link](https://arxiv.org/pdf/1911.09071.pdf)    
 ShuffleNet | 2017 | [link](https://arxiv.org/pdf/1707.01083.pdf)    
@@ -78,13 +74,11 @@ How Much Position Information Do Convolutional Neural Networks Encode? | [link](
 Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks | 2016 | [link](https://arxiv.org/pdf/1604.02878.pdf)    
 YOLO9000: Better, Faster, Stronger | 2016 | [link](https://arxiv.org/pdf/1612.08242.pdf)    
 
-# Semi-Supervised learning
-## Articles
+## Semi-Supervised learning
 FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence | 2001 | [link](https://arxiv.org/pdf/2001.07685.pdf)   
 A Simple Framework for Contrastive Learning of Visual Representations | 2020 | [link](https://arxiv.org/pdf/2002.05709.pdf)   
 
-# Semantic segmentation
-## Articles
+## Semantic segmentation
 Towards Bounding-Box Free Panoptic Segmentation | 2020 | [link](https://arxiv.org/pdf/2002.07705.pdf)    
 Learning Deconvolution Network for Semantic Segmentation | 2015 | [link](https://arxiv.org/pdf/1505.04366.pdf)    
 Fully Convolutional Networks for Semantic Segmentation | 2015 | [link](https://arxiv.org/pdf/1411.4038.pdf)    
@@ -92,15 +86,16 @@ DeepLab | 2017 | [link](https://arxiv.org/pdf/1606.00915.pdf)
 Rethinking Atrous Convolution for Semantic Image Segmentation | 2017 | [link](https://arxiv.org/pdf/1706.05587.pdf)    
 Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation | 2018 | [link](https://arxiv.org/pdf/1802.02611.pdf)    
 
-# CNN Calibration
-## Articles
+## CNN Calibration
 Calibrating Deep Neural Networks using Focal Loss | 2020 | [link](https://arxiv.org/pdf/2002.09437.pdf)    
 
-# Other Computer vision tasks
+## Pose estimation
 Multimodal Regression | [link](https://towardsdatascience.com/anchors-and-multi-bin-loss-for-multi-modal-target-regression-647ea1974617)    
-Orientation Estimation in Monocular 3D Object Detection | [link](https://towardsdatascience.com/orientation-estimation-in-monocular-3d-object-detection-f850ace91411)    
+Orientation Estimation in Monocular 3D Object Detection | [link](https://towardsdatascience.com/orientation-estimation-in-monocular-3d-object-detection-f850ace91411)   
+3D Bounding Box Estimation Using Deep Learning and Geometry | 2017 | [link](https://arxiv.org/pdf/1612.00496.pdf)    
+Deep Fitting Degree Scoring Network for Monocular 3D Object Detection | 2019 | [link](https://arxiv.org/pdf/1904.12681.pdf)    
 
-# Machine learning sentenses
+## Machine learning sentenses
 * Machine learning suffers from a fundamental problem. While machines are able to
 learn complex prediction rules by minimizing their training error, data are often
 marred by selection biases, confounding factors, and other peculiarities [1](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.208.2314&rep=rep1&type=pdf), [2](https://arxiv.org/abs/1606.08390.pdf)    
