@@ -96,6 +96,10 @@ Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentatio
 ## Articles
 Calibrating Deep Neural Networks using Focal Loss | 2020 | [link](https://arxiv.org/pdf/2002.09437.pdf)    
 
+# Other Computer vision tasks
+Multimodal Regression | [link](https://towardsdatascience.com/anchors-and-multi-bin-loss-for-multi-modal-target-regression-647ea1974617)    
+Orientation Estimation in Monocular 3D Object Detection | [link](https://towardsdatascience.com/orientation-estimation-in-monocular-3d-object-detection-f850ace91411)    
+
 # Machine learning sentenses
 * Machine learning suffers from a fundamental problem. While machines are able to
 learn complex prediction rules by minimizing their training error, data are often
