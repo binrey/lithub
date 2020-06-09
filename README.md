@@ -94,6 +94,11 @@ Multimodal Regression | [link](https://towardsdatascience.com/anchors-and-multi-
 Orientation Estimation in Monocular 3D Object Detection | [link](https://towardsdatascience.com/orientation-estimation-in-monocular-3d-object-detection-f850ace91411)   
 3D Bounding Box Estimation Using Deep Learning and Geometry | 2017 | [link](https://arxiv.org/pdf/1612.00496.pdf)    
 Deep Fitting Degree Scoring Network for Monocular 3D Object Detection | 2019 | [link](https://arxiv.org/pdf/1904.12681.pdf)    
+DensePose: Dense Human Pose Estimation In The Wild | 2018 | [link](https://arxiv.org/pdf/1802.00434.pdf)      
+
+## Ranking loss
+Understanding Ranking Loss, Contrastive Loss, Margin Loss, Triplet Loss, Hinge Loss and all those confusing names | [link](https://gombru.github.io/2019/04/03/ranking_loss/)    
+Siamese and triplet learning with online pair/triplet mining | [link](https://github.com/adambielski/siamese-triplet)    
 
 ## Machine learning sentenses
 * Machine learning suffers from a fundamental problem. While machines are able to
