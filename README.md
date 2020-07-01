@@ -73,6 +73,8 @@ Object-centric spatial pooling for image classification | 2012 | [github](data/S
 How Much Position Information Do Convolutional Neural Networks Encode? | [link](https://arxiv.org/pdf/2001.08248.pdf)    
 Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks | 2016 | [link](https://arxiv.org/pdf/1604.02878.pdf)    
 YOLO9000: Better, Faster, Stronger | 2016 | [link](https://arxiv.org/pdf/1612.08242.pdf)    
+Part-Aware Region Proposal for Vehicle Detection in High Occlusion Environment | 2018 | [link](https://github.com/binrey/lithub/blob/master/data/Part-Aware_Region_Proposal_for_Vehicle_Detection_i.pdf)    
+Occlusion-aware R-CNN: Detecting Pedestrians in a Crowd | 2018 | [link](https://arxiv.org/pdf/1807.08407.pdf)    
 
 ## Semi-Supervised learning
 FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence | 2001 | [link](https://arxiv.org/pdf/2001.07685.pdf)   
