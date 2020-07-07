@@ -75,6 +75,8 @@ Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Netwo
 YOLO9000: Better, Faster, Stronger | 2016 | [link](https://arxiv.org/pdf/1612.08242.pdf)    
 Part-Aware Region Proposal for Vehicle Detection in High Occlusion Environment | 2018 | [link](https://github.com/binrey/lithub/blob/master/data/Part-Aware_Region_Proposal_for_Vehicle_Detection_i.pdf)    
 Occlusion-aware R-CNN: Detecting Pedestrians in a Crowd | 2018 | [link](https://arxiv.org/pdf/1807.08407.pdf)    
+Small objects detection | [link](https://medium.com/datadriveninvestor/small-objects-detection-problem-c5b430996162)   
+Feature Pyramid Networks for Object Detection | 2017 | [link](https://arxiv.org/pdf/1612.03144.pdf)   
 
 ## Semi-Supervised learning
 FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence | 2001 | [link](https://arxiv.org/pdf/2001.07685.pdf)   
