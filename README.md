@@ -57,6 +57,7 @@ Ristretto: Hardware-Oriented Approximation of Convolutional Neural Networks | 20
 How to Quantize Neural Networks with TensorFlow | 2016 | [link](https://petewarden.com/2016/05/03/how-to-quantize-neural-networks-with-tensorflow/)    
 Quantizing deep convolutional networks for efficient inference: A whitepaper | 2018 | [link](https://arxiv.org/pdf/1806.08342.pdf)    
 Do We Really Need Model Compression? | [link](http://mitchgordon.me/machine/learning/2020/01/13/do-we-really-need-model-compression.html)    
+A Survey on Methods and Theories of Quantized Neural Networks | 2018 | [link](https://arxiv.org/pdf/1808.04752.pdf)   
 
 ## Object detection
 A Survey of the Recent Architectures of Deep Convolutional Neural Networks | 2019 | [link](https://github.com/binrey/lithub/blob/master/data/A%20Survey%20of%20the%20Recent%20Architectures%20of%20Deep%20Convolutional%20Neural%20Networks%202019.pdf)   
