@@ -100,6 +100,7 @@ Orientation Estimation in Monocular 3D Object Detection | [link](https://towards
 3D Bounding Box Estimation Using Deep Learning and Geometry | 2017 | [link](https://arxiv.org/pdf/1612.00496.pdf)    
 Deep Fitting Degree Scoring Network for Monocular 3D Object Detection | 2019 | [link](https://arxiv.org/pdf/1904.12681.pdf)    
 DensePose: Dense Human Pose Estimation In The Wild | 2018 | [link](https://arxiv.org/pdf/1802.00434.pdf)      
+An Efficient 3D Object Detection Framework for Autonomous Driving | 2019 | [link](https://arxiv.org/pdf/1903.10955.pdf)    
 
 ## Ranking loss
 Understanding Ranking Loss, Contrastive Loss, Margin Loss, Triplet Loss, Hinge Loss and all those confusing names | [link](https://gombru.github.io/2019/04/03/ranking_loss/)    
