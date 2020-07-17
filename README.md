@@ -49,8 +49,9 @@ Learning Sparse Neural Networks through L0 Regularization | 2018 | [link](https:
 Learning Sparse Neural Networks via Sensitivity-Driven Regularization | 2018 | [link](https://papers.nips.cc/paper/7644-learning-sparse-neural-networks-via-sensitivity-driven-regularization.pdf)  
 The Difficulty of Training Sparse Neural Networks | 2019 | [link](https://openreview.net/pdf?id=SyeyPEH23N)  
 Pruned and Structurally Sparse Neural Networks | 2018 | [link](https://arxiv.org/pdf/1810.00299.pdf)  
-Submanifold Sparse Convolutional Networks | 2017 | [link](https://arxiv.org/pdf/1706.01307.pdf)  
+Submanifold Sparse Convolutional Networks | 2017 | [link](https://arxiv.org/pdf/1706.01307.pdf)    
 
+The State of Sparsity in Deep Neural Networks | 2019 | [link](https://arxiv.org/pdf/1902.09574.pdf)    
 Sparse, Quantized, Full Frame CNN for Low Power Embedded Devices - Texas Instruments | [link](
 http://openaccess.thecvf.com/content_cvpr_2017_workshops/w4/papers/Mathew_Sparse_Quantized_Full_CVPR_2017_paper.pdf)   
 Ristretto: Hardware-Oriented Approximation of Convolutional Neural Networks | 2016 | [link](https://arxiv.org/pdf/1605.06402.pdf)    
@@ -105,6 +106,10 @@ An Efficient 3D Object Detection Framework for Autonomous Driving | 2019 | [link
 ## Ranking loss
 Understanding Ranking Loss, Contrastive Loss, Margin Loss, Triplet Loss, Hinge Loss and all those confusing names | [link](https://gombru.github.io/2019/04/03/ranking_loss/)    
 Siamese and triplet learning with online pair/triplet mining | [link](https://github.com/adambielski/siamese-triplet)    
+
+## Other
+Greedy Policy Search: A Simple Baseline for Learnable Test-Time Augmentation | 2020 | [link](https://arxiv.org/pdf/2002.09103.pdf)    
+
 
 ## Machine learning sentenses
 * Machine learning suffers from a fundamental problem. While machines are able to
