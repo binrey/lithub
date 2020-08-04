@@ -7,7 +7,12 @@ Grad-CAM:Visual Explanations from Deep Networks via Gradient-based Localization 
 Visualizing the Impact of Feature Attribution Baselines | [link](https://distill.pub/2020/attribution-baselines/)    
 Visualization gradient-based methods | [link](http://blog.qure.ai/notes/deep-learning-visualization-gradient-based-methods)    
 
-## GAN
+## Adversarially robust networks
+Image Synthesis with a Single (Robust) Classifier | 2019 | [link](https://pdfs.semanticscholar.org/9def/7ae50a48bb914e4ea88730e5f01c17af685e.pdf)    
+Adversarial Robustness as a Prior for Learned Representations | 2019 | [link](https://arxiv.org/pdf/1906.00945.pdf)    
+Do Adversarially Robust ImageNet Models Transfer Better? | 2020 | [link](https://arxiv.org/pdf/2007.08489.pdf)    
+
+## GANs
 #### Implementations
 Keras-GANs | [link](https://github.com/eriklindernoren/Keras-GAN)    
 COND DCGAN-tensorflow | [link](https://github.com/utkd/gans/blob/master/cifar10cgan.ipynb)    
