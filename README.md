@@ -86,9 +86,10 @@ Small objects detection | [link](https://medium.com/datadriveninvestor/small-obj
 Feature Pyramid Networks for Object Detection | 2017 | [link](https://arxiv.org/pdf/1612.03144.pdf)   
 PP-YOLO: An Effective and Efficient Implementation of Object Detector | 2020 | [link](https://arxiv.org/pdf/2007.12099.pdf)    
 
-## Semi-Supervised learning
+## Semi/Self-Supervised learning
 FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence | 2001 | [link](https://arxiv.org/pdf/2001.07685.pdf)   
 A Simple Framework for Contrastive Learning of Visual Representations | 2020 | [link](https://arxiv.org/pdf/2002.05709.pdf)   
+Self-Supervised Representation Learning Overview | 2020 | [link](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)    
 
 ## Semantic segmentation
 Towards Bounding-Box Free Panoptic Segmentation | 2020 | [link](https://arxiv.org/pdf/2002.07705.pdf)    
