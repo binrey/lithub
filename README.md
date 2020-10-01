@@ -85,6 +85,7 @@ Occlusion-aware R-CNN: Detecting Pedestrians in a Crowd | 2018 | [link](https://
 Small objects detection | [link](https://medium.com/datadriveninvestor/small-objects-detection-problem-c5b430996162)   
 Feature Pyramid Networks for Object Detection | 2017 | [link](https://arxiv.org/pdf/1612.03144.pdf)   
 PP-YOLO: An Effective and Efficient Implementation of Object Detector | 2020 | [link](https://arxiv.org/pdf/2007.12099.pdf)    
+A Survey of Deep Learning-based Object Detection | 2019 | [link](https://arxiv.org/pdf/1907.09408.pdf)    
 
 ## Semi/Self-Supervised learning
 FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence | 2001 | [link](https://arxiv.org/pdf/2001.07685.pdf)   
