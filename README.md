@@ -105,6 +105,7 @@ Calibrating Deep Neural Networks using Focal Loss | 2020 | [link](https://arxiv.
 
 ## Object tracking
 Оптические трекеры: ASEF и MOSSE | 2018 | [link](https://habr.com/ru/post/421285/)    
+Visual Object Tracking using Adaptive Correlation Filters | 2010 | [link](https://github.com/binrey/lithub/blob/master/data/bolme_cvpr10.pdf)    
 
 ## Pose estimation
 Multimodal Regression | [link](https://towardsdatascience.com/anchors-and-multi-bin-loss-for-multi-modal-target-regression-647ea1974617)    
