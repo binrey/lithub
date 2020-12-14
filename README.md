@@ -11,6 +11,9 @@ Visualization gradient-based methods | [link](http://blog.qure.ai/notes/deep-lea
 Image Synthesis with a Single (Robust) Classifier | 2019 | [link](https://pdfs.semanticscholar.org/9def/7ae50a48bb914e4ea88730e5f01c17af685e.pdf)    
 Adversarial Robustness as a Prior for Learned Representations | 2019 | [link](https://arxiv.org/pdf/1906.00945.pdf)    
 Do Adversarially Robust ImageNet Models Transfer Better? | 2020 | [link](https://arxiv.org/pdf/2007.08489.pdf)    
+Improved Regularization of Convolutional Neural Networks with Cutout | 2017 | [link](https://arxiv.org/pdf/1708.04552.pdf)    
+Random Erasing Data Augmentation | 2017 | [link](https://arxiv.org/pdf/1708.04896.pdf)    
+Data Augmentation using Random Image Cropping and Patching for Deep CNNs | 2019 | [link](https://arxiv.org/pdf/1811.09030.pdf)    
 
 ## GANs
 #### Implementations
