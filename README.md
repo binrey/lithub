@@ -89,6 +89,7 @@ Small objects detection | [link](https://medium.com/datadriveninvestor/small-obj
 Feature Pyramid Networks for Object Detection | 2017 | [link](https://arxiv.org/pdf/1612.03144.pdf)   
 PP-YOLO: An Effective and Efficient Implementation of Object Detector | 2020 | [link](https://arxiv.org/pdf/2007.12099.pdf)    
 A Survey of Deep Learning-based Object Detection | 2019 | [link](https://arxiv.org/pdf/1907.09408.pdf)    
+Tips for implementing SSD Object Detection (with TensorFlow code) | 2019 | [link](https://lambdalabs.com/blog/how-to-implement-ssd-object-detection-in-tensorflow/)    
 
 ## Semi/Self-Supervised learning
 FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence | 2001 | [link](https://arxiv.org/pdf/2001.07685.pdf)   
