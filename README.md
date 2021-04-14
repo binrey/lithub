@@ -91,10 +91,16 @@ PP-YOLO: An Effective and Efficient Implementation of Object Detector | 2020 | [
 A Survey of Deep Learning-based Object Detection | 2019 | [link](https://arxiv.org/pdf/1907.09408.pdf)    
 Tips for implementing SSD Object Detection (with TensorFlow code) | 2019 | [link](https://lambdalabs.com/blog/how-to-implement-ssd-object-detection-in-tensorflow/)    
 
+## Out Of Distribution Detection
+Out-of-Distribution Detection in Deep Neural Networks | [link](https://medium.com/analytics-vidhya/out-of-distribution-detection-in-deep-neural-networks-450da9ed7044)    
+
 ## Semi/Self-Supervised learning
 FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence | 2001 | [link](https://arxiv.org/pdf/2001.07685.pdf)   
 A Simple Framework for Contrastive Learning of Visual Representations | 2020 | [link](https://arxiv.org/pdf/2002.05709.pdf)   
 Self-Supervised Representation Learning Overview | 2020 | [link](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)    
+
+## Depth predictions
+Depth Map Prediction from a Single Image using a Multi-Scale Deep Network | 2014 | [link](https://papers.nips.cc/paper/2014/file/7bccfde7714a1ebadf06c5f4cea752c1-Paper.pdf)    
 
 ## Semantic segmentation
 Towards Bounding-Box Free Panoptic Segmentation | 2020 | [link](https://arxiv.org/pdf/2002.07705.pdf)    
