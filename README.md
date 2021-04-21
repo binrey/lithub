@@ -92,7 +92,7 @@ A Survey of Deep Learning-based Object Detection | 2019 | [link](https://arxiv.o
 Tips for implementing SSD Object Detection (with TensorFlow code) | 2019 | [link](https://lambdalabs.com/blog/how-to-implement-ssd-object-detection-in-tensorflow/)    
 
 ## Out Of Distribution Detection
-Out-of-Distribution Detection in Deep Neural Networks | [link](https://medium.com/analytics-vidhya/out-of-distribution-detection-in-deep-neural-networks-450da9ed7044)    
+Out-of-Distribution Detection in Deep Neural Networks | [link](https://medium.com/analytics-vidhya/out-of-distribution-detection-in-deep-neural-networks-450da9ed7044) Contrastive Training for Improved Out-of-Distribution Detection | [link](https://arxiv.org/pdf/2007.05566.pdf)      
 
 ## Semi/Self-Supervised learning
 FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence | 2001 | [link](https://arxiv.org/pdf/2001.07685.pdf)   
