@@ -90,6 +90,7 @@ Feature Pyramid Networks for Object Detection | 2017 | [link](https://arxiv.org/
 PP-YOLO: An Effective and Efficient Implementation of Object Detector | 2020 | [link](https://arxiv.org/pdf/2007.12099.pdf)    
 A Survey of Deep Learning-based Object Detection | 2019 | [link](https://arxiv.org/pdf/1907.09408.pdf)    
 Tips for implementing SSD Object Detection (with TensorFlow code) | 2019 | [link](https://lambdalabs.com/blog/how-to-implement-ssd-object-detection-in-tensorflow/)    
+DEFORMABLE DETR: DEFORMABLE TRANSFORMERS FOR END-TO-END OBJECT DETECTION | 2021 | [link](https://openreview.net/pdf?id=gZ9hCDWe6ke)    
 
 ## Out Of Distribution Detection
 Out-of-Distribution Detection in Deep Neural Networks | [link](https://medium.com/analytics-vidhya/out-of-distribution-detection-in-deep-neural-networks-450da9ed7044) Contrastive Training for Improved Out-of-Distribution Detection | [link](https://arxiv.org/pdf/2007.05566.pdf)      
