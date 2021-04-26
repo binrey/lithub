@@ -94,6 +94,7 @@ DEFORMABLE DETR: DEFORMABLE TRANSFORMERS FOR END-TO-END OBJECT DETECTION | 2021 
 
 ## Out Of Distribution Detection
 Out-of-Distribution Detection in Deep Neural Networks | [link](https://medium.com/analytics-vidhya/out-of-distribution-detection-in-deep-neural-networks-450da9ed7044) Contrastive Training for Improved Out-of-Distribution Detection | [link](https://arxiv.org/pdf/2007.05566.pdf)      
+Label Smoothed Embedding Hypothesis for Out-of-Distribution Detection | 2021 | [link](https://arxiv.org/pdf/2102.05131.pdf)    
 
 ## Semi/Self-Supervised learning
 FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence | 2001 | [link](https://arxiv.org/pdf/2001.07685.pdf)   
