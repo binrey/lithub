@@ -69,6 +69,11 @@ Do We Really Need Model Compression? | [link](http://mitchgordon.me/machine/lear
 A Survey on Methods and Theories of Quantized Neural Networks | 2018 | [link](https://arxiv.org/pdf/1808.04752.pdf)   
 
 ## Object detection
+
+#### Implementations
+SSD in keras | [link](https://github.com/tanakataiki/ssd_kerasV2)    
+
+#### Articles
 A Survey of the Recent Architectures of Deep Convolutional Neural Networks | 2019 | [link](https://github.com/binrey/lithub/blob/master/data/A%20Survey%20of%20the%20Recent%20Architectures%20of%20Deep%20Convolutional%20Neural%20Networks%202019.pdf)   
 Exploring the Origins and Prevalence of Texture Bias in Convolutional Neural Networks | 2019 | [link](https://arxiv.org/pdf/1911.09071.pdf)    
 ShuffleNet | 2017 | [link](https://arxiv.org/pdf/1707.01083.pdf)    
@@ -90,6 +95,7 @@ Feature Pyramid Networks for Object Detection | 2017 | [link](https://arxiv.org/
 PP-YOLO: An Effective and Efficient Implementation of Object Detector | 2020 | [link](https://arxiv.org/pdf/2007.12099.pdf)    
 A Survey of Deep Learning-based Object Detection | 2019 | [link](https://arxiv.org/pdf/1907.09408.pdf)    
 Tips for implementing SSD Object Detection (with TensorFlow code) | 2019 | [link](https://lambdalabs.com/blog/how-to-implement-ssd-object-detection-in-tensorflow/)    
+Fire SSD: Wide Fire Modules based Single Shot Detector on Edge Device | 2018 | [link](https://arxiv.org/pdf/1806.05363v1.pdf)    
 DEFORMABLE DETR: DEFORMABLE TRANSFORMERS FOR END-TO-END OBJECT DETECTION | 2021 | [link](https://openreview.net/pdf?id=gZ9hCDWe6ke)    
 
 ## Out Of Distribution Detection
