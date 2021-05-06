@@ -107,6 +107,7 @@ Label Smoothed Embedding Hypothesis for Out-of-Distribution Detection | 2021 | [
 FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence | 2001 | [link](https://arxiv.org/pdf/2001.07685.pdf)   
 A Simple Framework for Contrastive Learning of Visual Representations | 2020 | [link](https://arxiv.org/pdf/2002.05709.pdf)   
 Self-Supervised Representation Learning Overview | 2020 | [link](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)    
+Emerging Properties in Self-Supervised Vision Transformers | [link](https://arxiv.org/pdf/2104.14294.pdf)    
 
 ## Depth predictions
 Depth Map Prediction from a Single Image using a Multi-Scale Deep Network | 2014 | [link](https://papers.nips.cc/paper/2014/file/7bccfde7714a1ebadf06c5f4cea752c1-Paper.pdf)    
