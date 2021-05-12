@@ -98,6 +98,7 @@ Tips for implementing SSD Object Detection (with TensorFlow code) | 2019 | [link
 Fire SSD: Wide Fire Modules based Single Shot Detector on Edge Device | 2018 | [link](https://arxiv.org/pdf/1806.05363v1.pdf)    
 DEFORMABLE DETR: DEFORMABLE TRANSFORMERS FOR END-TO-END OBJECT DETECTION | 2021 | [link](https://openreview.net/pdf?id=gZ9hCDWe6ke)    
 Object Detection Accuracy (mAP) Cheat Sheet | [link](https://towardsdatascience.com/object-detection-accuracy-map-cheat-sheet-8f710fd79011)    
+Emerging Properties in Self-Supervised Vision Transformers | 2021 | [link](https://arxiv.org/pdf/2104.14294.pdf)    
 
 ## Out Of Distribution Detection
 Out-of-Distribution Detection in Deep Neural Networks | [link](https://medium.com/analytics-vidhya/out-of-distribution-detection-in-deep-neural-networks-450da9ed7044) Contrastive Training for Improved Out-of-Distribution Detection | [link](https://arxiv.org/pdf/2007.05566.pdf)      
