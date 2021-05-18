@@ -98,7 +98,6 @@ Tips for implementing SSD Object Detection (with TensorFlow code) | 2019 | [link
 Fire SSD: Wide Fire Modules based Single Shot Detector on Edge Device | 2018 | [link](https://arxiv.org/pdf/1806.05363v1.pdf)    
 DEFORMABLE DETR: DEFORMABLE TRANSFORMERS FOR END-TO-END OBJECT DETECTION | 2021 | [link](https://openreview.net/pdf?id=gZ9hCDWe6ke)    
 Object Detection Accuracy (mAP) Cheat Sheet | [link](https://towardsdatascience.com/object-detection-accuracy-map-cheat-sheet-8f710fd79011)    
-Emerging Properties in Self-Supervised Vision Transformers | 2021 | [link](https://arxiv.org/pdf/2104.14294.pdf)    
 
 ## Out Of Distribution Detection
 Out-of-Distribution Detection in Deep Neural Networks | [link](https://medium.com/analytics-vidhya/out-of-distribution-detection-in-deep-neural-networks-450da9ed7044) Contrastive Training for Improved Out-of-Distribution Detection | [link](https://arxiv.org/pdf/2007.05566.pdf)      
@@ -109,6 +108,8 @@ FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence |
 A Simple Framework for Contrastive Learning of Visual Representations | 2020 | [link](https://arxiv.org/pdf/2002.05709.pdf)   
 Self-Supervised Representation Learning Overview | 2020 | [link](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)    
 Emerging Properties in Self-Supervised Vision Transformers | [link](https://arxiv.org/pdf/2104.14294.pdf)    
+Efficient Visual Pretraining with Contrastive Detection | 2021 | [link](https://arxiv.org/pdf/2103.10957.pdf)    
+Emerging Properties in Self-Supervised Vision Transformers | 2021 | [link](https://arxiv.org/pdf/2104.14294.pdf)    
 
 ## Depth predictions
 Depth Map Prediction from a Single Image using a Multi-Scale Deep Network | 2014 | [link](https://papers.nips.cc/paper/2014/file/7bccfde7714a1ebadf06c5f4cea752c1-Paper.pdf)    
