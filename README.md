@@ -144,7 +144,7 @@ Siamese and triplet learning with online pair/triplet mining | [link](https://gi
 
 ## Other
 Greedy Policy Search: A Simple Baseline for Learnable Test-Time Augmentation | 2020 | [link](https://arxiv.org/pdf/2002.09103.pdf)    
-
+A Basic Introduction to Separable Convolutions | [link](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728)    
 
 ## Machine learning sentenses
 * Machine learning suffers from a fundamental problem. While machines are able to
