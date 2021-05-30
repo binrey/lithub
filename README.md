@@ -149,4 +149,4 @@ Greedy Policy Search: A Simple Baseline for Learnable Test-Time Augmentation | 2
 A Basic Introduction to Separable Convolutions | [link](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728)    
 
 ## General machine learning
-Блог А. Дьяконова [link](https://dyakonov.org/)    
+Блог А. Дьяконова | [link](https://dyakonov.org/)    
