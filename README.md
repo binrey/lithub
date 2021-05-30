@@ -148,12 +148,5 @@ Siamese and triplet learning with online pair/triplet mining | [link](https://gi
 Greedy Policy Search: A Simple Baseline for Learnable Test-Time Augmentation | 2020 | [link](https://arxiv.org/pdf/2002.09103.pdf)    
 A Basic Introduction to Separable Convolutions | [link](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728)    
 
-## Machine learning sentenses
-* Machine learning suffers from a fundamental problem. While machines are able to
-learn complex prediction rules by minimizing their training error, data are often
-marred by selection biases, confounding factors, and other peculiarities [1](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.208.2314&rep=rep1&type=pdf), [2](https://arxiv.org/abs/1606.08390.pdf)    
-* Understanding which
-patterns are useful has been previously studied as a correlation-versus-causation
-dilemma, since spurious correlations stemming from data biases are unrelated to the
-causal explanation of interest [1](https://arxiv.org/abs/1607.03300.pdf), [2](https://arxiv.org/abs/1604.00289.pdf), [3](https://arxiv.org/abs/1801.00631.pdf)    
-* Generating pixellevel adversarial perturbations has been and remains extensively studied [1](https://arxiv.org/abs/1312.6199), [2](https://arxiv.org/pdf/1412.6572.pdf)
+## General machine learning
+Блог А. Дьяконова [link](https://dyakonov.org/)    
