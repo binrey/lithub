@@ -1,4 +1,6 @@
-## CNN Visualization
+<details>
+<summary>CNN Visualization</summary>
+
 Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps | 2014 | [link](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf) | [github](https://github.com/binrey/lithub/blob/master/data/Deep%20Inside%20Convolutional%20Networks:%20Visualising...%202014.pdf)    
 Visualizing and Understanding Convolutional Networks | 2014 | [link](https://arxiv.org/pdf/1311.2901.pdf) | [github](https://github.com/binrey/lithub/blob/master/data/Visualizing%20and%20Understanding%20Convolutional%20Networks%202014.pdf)   
 Striving for Simplisity: The All Convolutional Net | 2015 | [link](https://arxiv.org/pdf/1412.6806.pdf) | [github](https://github.com/binrey/lithub/blob/master/data/Striving%20for%20Simplisity:%20The%20All%20Convolutional%20Net%202015.pdf)   
@@ -6,6 +8,7 @@ Adaptive Deconvolutional Networks for Mid and High Level Feature Learning | 2011
 Grad-CAM:Visual Explanations from Deep Networks via Gradient-based Localization | 2017 | [link](https://arxiv.org/abs/1610.02391) | [github](https://github.com/binrey/lithub/blob/master/data/Grad-CAM:%20Visual%20Explanations%20from%20Deep%20Networks...%202017.pdf)    
 Visualizing the Impact of Feature Attribution Baselines | [link](https://distill.pub/2020/attribution-baselines/)    
 Visualization gradient-based methods | [link](http://blog.qure.ai/notes/deep-learning-visualization-gradient-based-methods)    
+</details>
 
 ## Adversarially robust networks
 Image Synthesis with a Single (Robust) Classifier | 2019 | [link](https://pdfs.semanticscholar.org/9def/7ae50a48bb914e4ea88730e5f01c17af685e.pdf)    
