@@ -21,7 +21,9 @@ Random Erasing Data Augmentation | 2017 | [link](https://arxiv.org/pdf/1708.0489
 Data Augmentation using Random Image Cropping and Patching for Deep CNNs | 2019 | [link](https://arxiv.org/pdf/1811.09030.pdf)    
 </details>
 
-## GANs
+<details>
+<summary>GANs</summary>
+  
 #### Implementations
 Keras-GANs | [link](https://github.com/eriklindernoren/Keras-GAN)    
 COND DCGAN-tensorflow | [link](https://github.com/utkd/gans/blob/master/cifar10cgan.ipynb)    
@@ -53,7 +55,15 @@ Instance Normalization | 2017 | [link](https://arxiv.org/pdf/1607.08022.pdf)
 Improved Techniques for Training GANs | 2016 | [link](https://arxiv.org/pdf/1606.03498v1.pdf)    
 Perceptual Losses for Real-Time Style Transfer and Super-Resolution | 2016 | [link](https://arxiv.org/pdf/1603.08155.pdf)    
 A U-Net Based Discriminator for Generative Adversarial Networks | 2020 | [link](https://arxiv.org/pdf/2002.12655.pdf)    
-
+</details>
+  
+<details>
+  <summary>Face box/landmarks detection</summary>
+  
+MTCNN on caffe | [link](https://github.com/blankWorld/MTCNN-Accelerate-Onet)    
+MTCNN description | [link](https://towardsdatascience.com/face-detection-using-mtcnn-a-guide-for-face-extraction-with-a-focus-on-speed-c6d59f82d49)
+</details> 
+  
 ## Pruning & Weight sparsity
 Learning both Weights and Connections for Efficient Neural Networks | 2015 | [link](https://arxiv.org/pdf/1506.02626.pdf)  
 Sparse Convolutional Neural Networks | 2015 | [link](https://zpascal.net/cvpr2015/Liu_Sparse_Convolutional_Neural_2015_CVPR_paper.pdf)  
