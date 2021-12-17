@@ -64,7 +64,8 @@ MTCNN on caffe | [link](https://github.com/blankWorld/MTCNN-Accelerate-Onet)
 MTCNN description | [link](https://towardsdatascience.com/face-detection-using-mtcnn-a-guide-for-face-extraction-with-a-focus-on-speed-c6d59f82d49)
 </details> 
   
-## Pruning & Weight sparsity
+<details>
+<summary>Pruning & Weight sparsity</summary>
 Learning both Weights and Connections for Efficient Neural Networks | 2015 | [link](https://arxiv.org/pdf/1506.02626.pdf)  
 Sparse Convolutional Neural Networks | 2015 | [link](https://zpascal.net/cvpr2015/Liu_Sparse_Convolutional_Neural_2015_CVPR_paper.pdf)  
 Spatially-sparse convolutional neural networks | 2014 | [link](https://arxiv.org/pdf/1409.6070.pdf)  
@@ -83,8 +84,10 @@ How to Quantize Neural Networks with TensorFlow | 2016 | [link](https://peteward
 Quantizing deep convolutional networks for efficient inference: A whitepaper | 2018 | [link](https://arxiv.org/pdf/1806.08342.pdf)    
 Do We Really Need Model Compression? | [link](http://mitchgordon.me/machine/learning/2020/01/13/do-we-really-need-model-compression.html)    
 A Survey on Methods and Theories of Quantized Neural Networks | 2018 | [link](https://arxiv.org/pdf/1808.04752.pdf)   
+</details>
 
-## Object detection
+<details>
+  <summary>Object detection</summary>
 
 #### Implementations
 SSD in keras | [link](https://github.com/tanakataiki/ssd_kerasV2)    
@@ -115,7 +118,7 @@ Fire SSD: Wide Fire Modules based Single Shot Detector on Edge Device | 2018 | [
 DEFORMABLE DETR: DEFORMABLE TRANSFORMERS FOR END-TO-END OBJECT DETECTION | 2021 | [link](https://openreview.net/pdf?id=gZ9hCDWe6ke)    
 Object Detection Accuracy (mAP) Cheat Sheet | [link](https://towardsdatascience.com/object-detection-accuracy-map-cheat-sheet-8f710fd79011)    
 EfficientNetV2: Smaller Models and Faster Training | 2021 | [link](https://arxiv.org/pdf/2104.00298.pdf)    
-
+</details>
 ## Out Of Distribution Detection
 Out-of-Distribution Detection in Deep Neural Networks | [link](https://medium.com/analytics-vidhya/out-of-distribution-detection-in-deep-neural-networks-450da9ed7044) Contrastive Training for Improved Out-of-Distribution Detection | [link](https://arxiv.org/pdf/2007.05566.pdf)      
 Label Smoothed Embedding Hypothesis for Out-of-Distribution Detection | 2021 | [link](https://arxiv.org/pdf/2102.05131.pdf)    
