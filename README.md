@@ -66,6 +66,7 @@ MTCNN description | [link](https://towardsdatascience.com/face-detection-using-m
   
 <details>
 <summary>Pruning & Weight sparsity</summary>
+  
 Learning both Weights and Connections for Efficient Neural Networks | 2015 | [link](https://arxiv.org/pdf/1506.02626.pdf)  
 Sparse Convolutional Neural Networks | 2015 | [link](https://zpascal.net/cvpr2015/Liu_Sparse_Convolutional_Neural_2015_CVPR_paper.pdf)  
 Spatially-sparse convolutional neural networks | 2014 | [link](https://arxiv.org/pdf/1409.6070.pdf)  
@@ -118,6 +119,12 @@ Fire SSD: Wide Fire Modules based Single Shot Detector on Edge Device | 2018 | [
 DEFORMABLE DETR: DEFORMABLE TRANSFORMERS FOR END-TO-END OBJECT DETECTION | 2021 | [link](https://openreview.net/pdf?id=gZ9hCDWe6ke)    
 Object Detection Accuracy (mAP) Cheat Sheet | [link](https://towardsdatascience.com/object-detection-accuracy-map-cheat-sheet-8f710fd79011)    
 EfficientNetV2: Smaller Models and Faster Training | 2021 | [link](https://arxiv.org/pdf/2104.00298.pdf)    
+</details>
+
+<details>
+  <summary>Video Object Detection</summary>
+  
+  Guide to VOD | [link](https://towardsdatascience.com/ug-vod-the-ultimate-guide-to-video-object-detection-816a76073aef)    
 </details>
 ## Out Of Distribution Detection
 Out-of-Distribution Detection in Deep Neural Networks | [link](https://medium.com/analytics-vidhya/out-of-distribution-detection-in-deep-neural-networks-450da9ed7044) Contrastive Training for Improved Out-of-Distribution Detection | [link](https://arxiv.org/pdf/2007.05566.pdf)      
