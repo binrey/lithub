@@ -126,6 +126,7 @@ EfficientNetV2: Smaller Models and Faster Training | 2021 | [link](https://arxiv
   
   Guide to VOD | [link](https://towardsdatascience.com/ug-vod-the-ultimate-guide-to-video-object-detection-816a76073aef)    
 </details>
+
 ## Out Of Distribution Detection
 Out-of-Distribution Detection in Deep Neural Networks | [link](https://medium.com/analytics-vidhya/out-of-distribution-detection-in-deep-neural-networks-450da9ed7044) Contrastive Training for Improved Out-of-Distribution Detection | [link](https://arxiv.org/pdf/2007.05566.pdf)      
 Label Smoothed Embedding Hypothesis for Out-of-Distribution Detection | 2021 | [link](https://arxiv.org/pdf/2102.05131.pdf)    
