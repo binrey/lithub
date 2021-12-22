@@ -125,6 +125,7 @@ EfficientNetV2: Smaller Models and Faster Training | 2021 | [link](https://arxiv
   <summary>Video Object Detection</summary>
   
   Guide to VOD | [link](https://towardsdatascience.com/ug-vod-the-ultimate-guide-to-video-object-detection-816a76073aef)    
+  Object Detection in Video with Spatiotemporal Sampling Networks | [link](https://arxiv.org/pdf/1803.05549.pdf)    
 </details>
 
 <details>
