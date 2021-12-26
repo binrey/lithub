@@ -151,6 +151,10 @@
   <summary>3D projection. Stereo view. Depth estimation</summary>
   
   Основы стереозрения | [link](https://habr.com/ru/post/130300/)    
+  Disparity Matrix | [link](https://jayrambhia.com/blog/disparity-mpas)    
+  Stereo Ranging | [link](https://jayrambhia.com/blog/stereoranging)    
+  Monocular Depth estimation with keras | [link](https://keras.io/examples/vision/depth_estimation/)    
+  Digging Into Self-Supervised Monocular Depth Estimation | [link](https://openaccess.thecvf.com/content_ICCV_2019/papers/Godard_Digging_Into_Self-Supervised_Monocular_Depth_Estimation_ICCV_2019_paper.pdf)    
   Depth Map Prediction from a Single Image using a Multi-Scale Deep Network | 2014 | [link](https://papers.nips.cc/paper/2014/file/7bccfde7714a1ebadf06c5f4cea752c1-Paper.pdf)    
 </details>
   
