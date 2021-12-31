@@ -145,6 +145,8 @@
   Emerging Properties in Self-Supervised Vision Transformers | [link](https://arxiv.org/pdf/2104.14294.pdf)    
   Efficient Visual Pretraining with Contrastive Detection | 2021 | [link](https://arxiv.org/pdf/2103.10957.pdf)    
   Emerging Properties in Self-Supervised Vision Transformers | 2021 | [link](https://arxiv.org/pdf/2104.14294.pdf)    
+  An intro to self supervised learning | [link](https://towardsdatascience.com/a-different-kind-of-deep-learning-part-1-90fe6c52f1ab)    
+  Self Supervised learning: generative approaches | [link](https://towardsdatascience.com/a-different-kind-of-deep-learning-part-2-b447ff469255)    
 </details>
 
 <details>
@@ -156,6 +158,13 @@
   Monocular Depth estimation with keras | [link](https://keras.io/examples/vision/depth_estimation/)    
   Digging Into Self-Supervised Monocular Depth Estimation | [link](https://openaccess.thecvf.com/content_ICCV_2019/papers/Godard_Digging_Into_Self-Supervised_Monocular_Depth_Estimation_ICCV_2019_paper.pdf)    
   Depth Map Prediction from a Single Image using a Multi-Scale Deep Network | 2014 | [link](https://papers.nips.cc/paper/2014/file/7bccfde7714a1ebadf06c5f4cea752c1-Paper.pdf)    
+  Stereo Depth Estimation (Papers With Code) | [link](https://paperswithcode.com/task/stereo-depth-estimation)    
+  Inverse Projection | [link](https://github.com/darylclimb/cvml_project/tree/master/projections/inverse_projection)    
+  Inverse Projection | [link](https://towardsdatascience.com/inverse-projection-transformation-c866ccedef1c)    
+  Camera-Lidar Projection: Navigating between 2D and 3D | [link](https://medium.com/swlh/camera-lidar-projection-navigating-between-2d-and-3d-911c78167a94)    
+  3D trajectory reconstruction of moving objects using multiple unsynchronized cameras | [link](https://github.com/CenekAlbl/mvus)    
+  3D reconstruction example | [link](https://github.com/alyssaq/3Dreconstruction)    
+  
 </details>
   
 ## Semantic segmentation
