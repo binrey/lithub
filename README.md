@@ -167,40 +167,61 @@
   
 </details>
   
-## Semantic segmentation
-Towards Bounding-Box Free Panoptic Segmentation | 2020 | [link](https://arxiv.org/pdf/2002.07705.pdf)    
-Learning Deconvolution Network for Semantic Segmentation | 2015 | [link](https://arxiv.org/pdf/1505.04366.pdf)    
-Fully Convolutional Networks for Semantic Segmentation | 2015 | [link](https://arxiv.org/pdf/1411.4038.pdf)    
-DeepLab | 2017 | [link](https://arxiv.org/pdf/1606.00915.pdf)    
-Rethinking Atrous Convolution for Semantic Image Segmentation | 2017 | [link](https://arxiv.org/pdf/1706.05587.pdf)    
-Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation | 2018 | [link](https://arxiv.org/pdf/1802.02611.pdf)    
+<details>
+  <summary>Semantic segmentation</summary>
+  
+  Towards Bounding-Box Free Panoptic Segmentation | 2020 | [link](https://arxiv.org/pdf/2002.07705.pdf)    
+  Learning Deconvolution Network for Semantic Segmentation | 2015 | [link](https://arxiv.org/pdf/1505.04366.pdf)    
+  Fully Convolutional Networks for Semantic Segmentation | 2015 | [link](https://arxiv.org/pdf/1411.4038.pdf)    
+  DeepLab | 2017 | [link](https://arxiv.org/pdf/1606.00915.pdf)    
+  Rethinking Atrous Convolution for Semantic Image Segmentation | 2017 | [link](https://arxiv.org/pdf/1706.05587.pdf)    
+  Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation | 2018 | [link](https://arxiv.org/pdf/1802.02611.pdf)    
+</details>
 
-## CNN Calibration
-Calibrating Deep Neural Networks using Focal Loss | 2020 | [link](https://arxiv.org/pdf/2002.09437.pdf)    
-Проблема калибровки уверенности | 2020 | [link](/https://dyakonov.org/2020/03/27/%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b0-%d0%ba%d0%b0%d0%bb%d0%b8%d0%b1%d1%80%d0%be%d0%b2%d0%ba%d0%b8-%d1%83%d0%b2%d0%b5%d1%80%d0%b5%d0%bd%d0%bd%d0%be%d1%81%d1%82%d0%b8/)    
+<details>
+  <summary>CNN Calibration</summary>
+  
+  Calibrating Deep Neural Networks using Focal Loss | 2020 | [link](https://arxiv.org/pdf/2002.09437.pdf)    
+  Проблема калибровки уверенности | 2020 | [link](/https://dyakonov.org/2020/03/27/%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b0-%d0%ba%d0%b0%d0%bb%d0%b8%d0%b1%d1%80%d0%be%d0%b2%d0%ba%d0%b8-%d1%83%d0%b2%d0%b5%d1%80%d0%b5%d0%bd%d0%bd%d0%be%d1%81%d1%82%d0%b8/)    
+</details>
 
-## Object tracking
-Оптические трекеры: ASEF и MOSSE | 2018 | [link](https://habr.com/ru/post/421285/)    
-Visual Object Tracking using Adaptive Correlation Filters | 2010 | [link](https://github.com/binrey/lithub/blob/master/data/bolme_cvpr10.pdf)    
-Kalman and Bayesian Filters in Python | 2020 | [link](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)    
+<details>
+  <summary>Object tracking</summary>
+  
+  Оптические трекеры: ASEF и MOSSE | 2018 | [link](https://habr.com/ru/post/421285/)    
+  Visual Object Tracking using Adaptive Correlation Filters | 2010 | [link](https://github.com/binrey/lithub/blob/master/data/bolme_cvpr10.pdf)    
+  Kalman and Bayesian Filters in Python | 2020 | [link](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)    
+</details>
 
-## Pose estimation
-Multimodal Regression | [link](https://towardsdatascience.com/anchors-and-multi-bin-loss-for-multi-modal-target-regression-647ea1974617)    
-Orientation Estimation in Monocular 3D Object Detection | [link](https://towardsdatascience.com/orientation-estimation-in-monocular-3d-object-detection-f850ace91411)   
-3D Bounding Box Estimation Using Deep Learning and Geometry | 2017 | [link](https://arxiv.org/pdf/1612.00496.pdf)    
-Deep Fitting Degree Scoring Network for Monocular 3D Object Detection | 2019 | [link](https://arxiv.org/pdf/1904.12681.pdf)    
-DensePose: Dense Human Pose Estimation In The Wild | 2018 | [link](https://arxiv.org/pdf/1802.00434.pdf)      
-An Efficient 3D Object Detection Framework for Autonomous Driving | 2019 | [link](https://arxiv.org/pdf/1903.10955.pdf)    
-Lifting 2D object detection to 3D in autonomous driving | 2019 | [link](https://towardsdatascience.com/geometric-reasoning-based-cuboid-generation-in-monocular-3d-object-detection-5ee2996270d1)    
+<details>
+  <summary>Pose estimation</summary>
+  
+  Multimodal Regression | [link](https://towardsdatascience.com/anchors-and-multi-bin-loss-for-multi-modal-target-regression-647ea1974617)    
+  Orientation Estimation in Monocular 3D Object Detection | [link](https://towardsdatascience.com/orientation-estimation-in-monocular-3d-object-detection-f850ace91411)   
+  3D Bounding Box Estimation Using Deep Learning and Geometry | 2017 | [link](https://arxiv.org/pdf/1612.00496.pdf)    
+  Deep Fitting Degree Scoring Network for Monocular 3D Object Detection | 2019 | [link](https://arxiv.org/pdf/1904.12681.pdf)    
+  DensePose: Dense Human Pose Estimation In The Wild | 2018 | [link](https://arxiv.org/pdf/1802.00434.pdf)      
+  An Efficient 3D Object Detection Framework for Autonomous Driving | 2019 | [link](https://arxiv.org/pdf/1903.10955.pdf)    
+  Lifting 2D object detection to 3D in autonomous driving | 2019 | [link](https://towardsdatascience.com/geometric-reasoning-based-cuboid-generation-in-monocular-3d-object-detection-5ee2996270d1)    
+</details>
 
-## Ranking loss
-Understanding Ranking Loss, Contrastive Loss, Margin Loss, Triplet Loss, Hinge Loss and all those confusing names | [link](https://gombru.github.io/2019/04/03/ranking_loss/)    
-Siamese and triplet learning with online pair/triplet mining | [link](https://github.com/adambielski/siamese-triplet)    
+<details>
+  <summary>Ranking loss</summary>
+  
+  Understanding Ranking Loss, Contrastive Loss, Margin Loss, Triplet Loss, Hinge Loss and all those confusing names | [link](https://gombru.github.io/2019/04/03/ranking_loss/)    
+  Siamese and triplet learning with online pair/triplet mining | [link](https://github.com/adambielski/siamese-triplet)    
+</details>
 
-## Other
-Greedy Policy Search: A Simple Baseline for Learnable Test-Time Augmentation | 2020 | [link](https://arxiv.org/pdf/2002.09103.pdf)    
-A Basic Introduction to Separable Convolutions | [link](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728)    
-Class imbalance in deep learning | [link](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0192-5#Fig4)    
-
-## General machine learning
-Блог А. Дьяконова | [link](https://dyakonov.org/)    
+<details>
+  <summary>Other</summary>
+    
+  Greedy Policy Search: A Simple Baseline for Learnable Test-Time Augmentation | 2020 | [link](https://arxiv.org/pdf/2002.09103.pdf)    
+  A Basic Introduction to Separable Convolutions | [link](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728)    
+  Class imbalance in deep learning | [link](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0192-5#Fig4)    
+</details>
+    
+<details>
+  <summary>General machine learning</summary>
+  
+  Блог А. Дьяконова | [link](https://dyakonov.org/)    
+</details>
