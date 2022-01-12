@@ -164,7 +164,7 @@
   Camera-Lidar Projection: Navigating between 2D and 3D | [link](https://medium.com/swlh/camera-lidar-projection-navigating-between-2d-and-3d-911c78167a94)    
   3D trajectory reconstruction of moving objects using multiple unsynchronized cameras | [link](https://github.com/CenekAlbl/mvus)    
   3D reconstruction example | [link](https://github.com/alyssaq/3Dreconstruction)    
-  
+  Depth perception using stereo camera (Python/C++) | [link](https://learnopencv.com/depth-perception-using-stereo-camera-python-c/)    
 </details>
   
 <details>
