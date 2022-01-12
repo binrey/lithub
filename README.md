@@ -152,6 +152,15 @@
 <details>
   <summary>3D projection. Stereo view. Depth estimation</summary>
   
+  ### Implementations    
+  Camera-Lidar Projection: Navigating between 2D and 3D | [link](https://medium.com/swlh/camera-lidar-projection-navigating-between-2d-and-3d-911c78167a94)    
+  3D trajectory reconstruction of moving objects using multiple unsynchronized cameras | [link](https://github.com/CenekAlbl/mvus)    
+  3D reconstruction example | [link](https://github.com/alyssaq/3Dreconstruction)    
+  Depth perception using stereo camera (Python/C++) | [link](https://learnopencv.com/depth-perception-using-stereo-camera-python-c/)    
+  Disparity map from opencv | [link](https://docs.opencv.org/4.x/dd/d53/tutorial_py_depthmap.html)    
+  Inverse Projection | [link](https://github.com/darylclimb/cvml_project/tree/master/projections/inverse_projection)    
+  
+  ### Articles    
   Основы стереозрения | [link](https://habr.com/ru/post/130300/)    
   Disparity Matrix | [link](https://jayrambhia.com/blog/disparity-mpas)    
   Stereo Ranging | [link](https://jayrambhia.com/blog/stereoranging)    
@@ -159,12 +168,8 @@
   Digging Into Self-Supervised Monocular Depth Estimation | [link](https://openaccess.thecvf.com/content_ICCV_2019/papers/Godard_Digging_Into_Self-Supervised_Monocular_Depth_Estimation_ICCV_2019_paper.pdf)    
   Depth Map Prediction from a Single Image using a Multi-Scale Deep Network | 2014 | [link](https://papers.nips.cc/paper/2014/file/7bccfde7714a1ebadf06c5f4cea752c1-Paper.pdf)    
   Stereo Depth Estimation (Papers With Code) | [link](https://paperswithcode.com/task/stereo-depth-estimation)    
-  Inverse Projection | [link](https://github.com/darylclimb/cvml_project/tree/master/projections/inverse_projection)    
   Inverse Projection | [link](https://towardsdatascience.com/inverse-projection-transformation-c866ccedef1c)    
-  Camera-Lidar Projection: Navigating between 2D and 3D | [link](https://medium.com/swlh/camera-lidar-projection-navigating-between-2d-and-3d-911c78167a94)    
-  3D trajectory reconstruction of moving objects using multiple unsynchronized cameras | [link](https://github.com/CenekAlbl/mvus)    
-  3D reconstruction example | [link](https://github.com/alyssaq/3Dreconstruction)    
-  Depth perception using stereo camera (Python/C++) | [link](https://learnopencv.com/depth-perception-using-stereo-camera-python-c/)    
+
 </details>
   
 <details>
