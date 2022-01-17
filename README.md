@@ -58,10 +58,17 @@
 </details>
   
 <details>
+  
   <summary>Face box/landmarks detection</summary>
   
+  #### Implementations
   MTCNN on caffe | [link](https://github.com/blankWorld/MTCNN-Accelerate-Onet)    
-  MTCNN description | [link](https://towardsdatascience.com/face-detection-using-mtcnn-a-guide-for-face-extraction-with-a-focus-on-speed-c6d59f82d49)
+  
+  #### Articles
+  MTCNN description | [link](https://towardsdatascience.com/face-detection-using-mtcnn-a-guide-for-face-extraction-with-a-focus-on-speed-c6d59f82d49)    
+  A Multi-Task CNN Framework for Driver Face Monitoring | [link](https://www.researchgate.net/publication/329748136_A_Multi-Task_CNN_Framework_for_Driver_Face_Monitoring)    
+  Driver Drowsiness Detection Model Using Convolutional Neural Networks Techniques for Android Application | 2020 | [link](https://arxiv.org/pdf/2002.03728.pdf)    
+  Fast Facial Landmark Detection and Applications: A Survey | 2021 | [link](https://arxiv.org/ftp/arxiv/papers/2101/2101.10808.pdf)    
 </details> 
   
 <details>
