@@ -69,6 +69,7 @@
   A Multi-Task CNN Framework for Driver Face Monitoring | [link](https://www.researchgate.net/publication/329748136_A_Multi-Task_CNN_Framework_for_Driver_Face_Monitoring)    
   Driver Drowsiness Detection Model Using Convolutional Neural Networks Techniques for Android Application | 2020 | [link](https://arxiv.org/pdf/2002.03728.pdf)    
   Fast Facial Landmark Detection and Applications: A Survey | 2021 | [link](https://arxiv.org/ftp/arxiv/papers/2101/2101.10808.pdf)    
+  Как на самом деле работает распознавание лиц | [link](https://habr.com/ru/company/ntechlab/blog/586770/)    
 </details> 
   
 <details>
