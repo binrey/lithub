@@ -177,6 +177,7 @@
   Depth Map Prediction from a Single Image using a Multi-Scale Deep Network | 2014 | [link](https://papers.nips.cc/paper/2014/file/7bccfde7714a1ebadf06c5f4cea752c1-Paper.pdf)    
   Stereo Depth Estimation (Papers With Code) | [link](https://paperswithcode.com/task/stereo-depth-estimation)    
   Inverse Projection | [link](https://towardsdatascience.com/inverse-projection-transformation-c866ccedef1c)    
+  Калибровка камеры с использованием с OpenCV | [link](https://docs.opencv.org/4.x/d4/d94/tutorial_camera_calibration.html)    
 
 </details>
   
