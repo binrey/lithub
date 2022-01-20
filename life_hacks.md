@@ -1,0 +1,2 @@
+- [Remote jupyter notebooks with ssh port forwarding](https://thedatafrog.com/en/articles/remote-jupyter-notebooks/)    
+- [SSH-туннели — пробрасываем порт](https://habr.com/ru/post/81607/)
