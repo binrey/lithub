@@ -167,7 +167,7 @@
   Depth perception using stereo camera (Python/C++) | [link](https://learnopencv.com/depth-perception-using-stereo-camera-python-c/)    
   Disparity map from opencv | [link](https://docs.opencv.org/4.x/dd/d53/tutorial_py_depthmap.html)    
   Inverse Projection | [link](https://github.com/darylclimb/cvml_project/tree/master/projections/inverse_projection)    
-  Калибровка камеры с использованием с OpenCV | [link](https://docs.opencv.org/4.x/d4/d94/tutorial_camera_calibration.html)    
+  Калибровка камеры с использованием с OpenCV | [link](https://docs.opencv.org/4.x/d4/d94/tutorial_camera_calibration.html) | [link](https://waksoft.susu.ru/2020/02/29/kalibrovka-kamery-s-ispolzovaniem-s-opencv/)        
   
   ### Articles    
   Основы стереозрения | [link](https://habr.com/ru/post/130300/)    
