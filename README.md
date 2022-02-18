@@ -237,5 +237,7 @@
 <details>
   <summary>General machine learning</summary>
   
-  Блог А. Дьяконова | [link](https://dyakonov.org/)    
+  [Блог А. Дьяконова](https://dyakonov.org/)    
+  [Линейные модели классификации и регрессии](https://habr.com/ru/company/ods/blog/323890/)    
+  [Вычисление энтропии в теории информации](https://habr.com/ru/post/484756/)    
 </details>
