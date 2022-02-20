@@ -240,4 +240,5 @@
   [Блог А. Дьяконова](https://dyakonov.org/)    
   [Линейные модели классификации и регрессии](https://habr.com/ru/company/ods/blog/323890/)    
   [Вычисление энтропии в теории информации](https://habr.com/ru/post/484756/)    
+  [Deep dive into conv nets](https://towardsdatascience.com/deep-dive-into-convolutional-networks-48db75969fdf)    
 </details>
