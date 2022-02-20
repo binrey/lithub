@@ -232,8 +232,8 @@
   [Greedy Policy Search: A Simple Baseline for Learnable Test-Time Augmentation | 2020](https://arxiv.org/pdf/2002.09103.pdf)    
   [A Basic Introduction to Separable Convolutions](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728)    
   [Class imbalance in deep learning](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0192-5#Fig4)    
+  [Deep dive into conv nets](https://towardsdatascience.com/deep-dive-into-convolutional-networks-48db75969fdf)      
 </details>    
-  [Deep dive into conv nets](https://towardsdatascience.com/deep-dive-into-convolutional-networks-48db75969fdf)    
     
 <details>
   <summary>General machine learning</summary>
