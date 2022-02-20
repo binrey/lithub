@@ -227,12 +227,13 @@
 </details>
 
 <details>
-  <summary>Other</summary>
+  <summary>Other in deep learning</summary>
     
-  Greedy Policy Search: A Simple Baseline for Learnable Test-Time Augmentation | 2020 | [link](https://arxiv.org/pdf/2002.09103.pdf)    
-  A Basic Introduction to Separable Convolutions | [link](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728)    
-  Class imbalance in deep learning | [link](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0192-5#Fig4)    
-</details>
+  [Greedy Policy Search: A Simple Baseline for Learnable Test-Time Augmentation | 2020](https://arxiv.org/pdf/2002.09103.pdf)    
+  [A Basic Introduction to Separable Convolutions](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728)    
+  [Class imbalance in deep learning](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0192-5#Fig4)    
+</details>    
+  [Deep dive into conv nets](https://towardsdatascience.com/deep-dive-into-convolutional-networks-48db75969fdf)    
     
 <details>
   <summary>General machine learning</summary>
@@ -240,5 +241,4 @@
   [Блог А. Дьяконова](https://dyakonov.org/)    
   [Линейные модели классификации и регрессии](https://habr.com/ru/company/ods/blog/323890/)    
   [Вычисление энтропии в теории информации](https://habr.com/ru/post/484756/)    
-  [Deep dive into conv nets](https://towardsdatascience.com/deep-dive-into-convolutional-networks-48db75969fdf)    
 </details>
