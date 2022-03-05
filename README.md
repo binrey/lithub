@@ -241,4 +241,6 @@
   [Блог А. Дьяконова](https://dyakonov.org/)    
   [Линейные модели классификации и регрессии](https://habr.com/ru/company/ods/blog/323890/)    
   [Вычисление энтропии в теории информации](https://habr.com/ru/post/484756/)    
+  [Cross Entropy](https://www.youtube.com/watch?v=YtebGVx-Fxw&ab_channel=StatQuestwithJoshStarmer)    
+  
 </details>
