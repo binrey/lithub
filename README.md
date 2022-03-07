@@ -198,6 +198,7 @@
   
   Calibrating Deep Neural Networks using Focal Loss | 2020 | [link](https://arxiv.org/pdf/2002.09437.pdf)    
   Проблема калибровки уверенности | 2020 | [link](https://dyakonov.org/2020/03/27/проблема-калибровки-уверенности/)    
+  On Calibration of Modern Neural Networks | 2017 | [link](https://arxiv.org/pdf/1706.04599.pdf)    
 </details>
 
 <details>
