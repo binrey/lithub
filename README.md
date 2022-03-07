@@ -35,6 +35,7 @@
   NIPS 2016 Tutorial: Generative Adversarial Networks | [link](https://arxiv.org/pdf/1701.00160.pdf) | [github](data/1701.00160.pdf)    
   Keras-ACGAN-CIFAR10 | [link](https://github.com/King-Of-Knights/Keras-ACGAN-CIFAR10)    
   Cycle-GAN in Keras | [link](https://github.com/MingwangLin/cyclegan-keras)    
+  Illustarted VQGAN | [link](https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/)    
 
   #### Articles
   GAN: Generative Adversarial Nets | 2014 | [link](https://arxiv.org/pdf/1406.2661.pdf)    
@@ -233,6 +234,8 @@
   [A Basic Introduction to Separable Convolutions](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728)    
   [Class imbalance in deep learning](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0192-5#Fig4)    
   [Deep dive into conv nets](https://towardsdatascience.com/deep-dive-into-convolutional-networks-48db75969fdf)      
+  [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)    
+  [Learning Deep Architectures for AI](https://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf)    
 </details>    
     
 <details>
