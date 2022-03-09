@@ -1,2 +1,3 @@
 - [Remote jupyter notebooks with ssh port forwarding](https://thedatafrog.com/en/articles/remote-jupyter-notebooks/)    
-- [SSH-туннели — пробрасываем порт](https://habr.com/ru/post/81607/)
+- [SSH-туннели — пробрасываем порт](https://habr.com/ru/post/81607/)    
+- [ПОДКЛЮЧЕНИЕ И НАСТРОЙКА SSHFS В LINUX](https://losst.ru/podklyuchenie-i-nastrojka-sshfs-v-linux)
