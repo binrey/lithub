@@ -7,5 +7,5 @@
 [Ensemble methods: bagging, boosting and stacking](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)    
 [Основы линейной регрессии](https://habr.com/ru/post/514818/)    
 [A simple SVM based implementation of semi-supervised learning](https://towardsdatascience.com/a-simple-svm-based-implementation-of-semi-supervised-learning-f44eafb0a970)   
-[Machine Learning —Expectation-Maximization Algorithm (EM)](https://jonathan-hui.medium.com/machine-learning-expectation-maximization-algorithm-em-2e954cb76959)   
+[Expectation-Maximization Algorithm (EM)](https://jonathan-hui.medium.com/machine-learning-expectation-maximization-algorithm-em-2e954cb76959)   
 [Hidden Markov Model (HMM)](https://jonathan-hui.medium.com/machine-learning-hidden-markov-model-hmm-31660d217a61)    
