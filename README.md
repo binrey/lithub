@@ -237,4 +237,5 @@
   [Deep dive into conv nets](https://towardsdatascience.com/deep-dive-into-convolutional-networks-48db75969fdf)      
   [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)    
   [Learning Deep Architectures for AI](https://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf)    
+  [mAP metric](https://jonathan-hui.medium.com/map-mean-average-precision-for-object-detection-45c121a31173)
 </details>    
