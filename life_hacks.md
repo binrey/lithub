@@ -5,7 +5,10 @@
 - Add kernel to jupyter notebook started from another kernel: 
 
 ```
-python -m ipykernel install --user --name <some-env> --display-name <name-of-your-kernel>
+$conda activate new-env
+$conda install ipykernel
+$conda deactivate <--- ???
+$python -m ipykernel install --user --name new-env --display-name new-env-kernel
 ```
 - Jupyter Notebook Extentions:
 ```
