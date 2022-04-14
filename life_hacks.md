@@ -12,5 +12,5 @@ $python -m ipykernel install --user --name new-env --display-name new-env-kernel
 ```
 - Jupyter Notebook Extentions:
 ```
-pip install jupyter_contrib_nbextensions && jupyter contrib nbextension install 
+pip install jupyter_contrib_nbextensions && jupyter contrib nbextension install --user
 ```
