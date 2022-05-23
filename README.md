@@ -230,7 +230,8 @@
 
 <details>
   <summary>Other in deep learning</summary>
-    
+  
+  ### Miscellaneous  
   [Greedy Policy Search: A Simple Baseline for Learnable Test-Time Augmentation | 2020](https://arxiv.org/pdf/2002.09103.pdf)    
   [A Basic Introduction to Separable Convolutions](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728)    
   [Class imbalance in deep learning](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0192-5#Fig4)    
@@ -238,4 +239,13 @@
   [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)    
   [Learning Deep Architectures for AI](https://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf)    
   [mAP metric](https://jonathan-hui.medium.com/map-mean-average-precision-for-object-detection-45c121a31173)
+  
+  ### Back Propagation
+  [How the backpropagation algorithm works | neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com/chap2.html)    
+  [Backpropagation Intuition | deeplearning.ai](https://www.youtube.com/watch?v=yXcQ4B-YSjQ&t=780s&ab_channel=DeepLearningAI)  
+  [Derivatives With Computation Graphs | deeplearning.ai](https://www.youtube.com/watch?v=nJyUyKN-XBQ&t=336s&ab_channel=DeepLearningAI)  
+  [Computation Graph | deeplearning.ai](https://www.youtube.com/watch?v=hCP1vGoCdYU&ab_channel=DeepLearningAI)  
+  [Backpropagation Main Ideas | StatQuest](https://www.youtube.com/watch?v=IN2XmBhILt4&t=729s&ab_channel=StatQuestwithJoshStarmer)  
+  [Backpropagation Details Pt. 1 | StatQuest](https://www.youtube.com/watch?v=iyn2zdALii8&ab_channel=StatQuestwithJoshStarmer)  
+  [Backpropagation Details Pt. 1 | StatQuest](https://www.youtube.com/watch?v=GKZoOHXGcLo&ab_channel=StatQuestwithJoshStarmer)
 </details>    
