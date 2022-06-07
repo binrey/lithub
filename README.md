@@ -247,5 +247,5 @@
   [Computation Graph | deeplearning.ai](https://www.youtube.com/watch?v=hCP1vGoCdYU&ab_channel=DeepLearningAI)  
   [Backpropagation Main Ideas | StatQuest](https://www.youtube.com/watch?v=IN2XmBhILt4&t=729s&ab_channel=StatQuestwithJoshStarmer)  
   [Backpropagation Details Pt. 1 | StatQuest](https://www.youtube.com/watch?v=iyn2zdALii8&ab_channel=StatQuestwithJoshStarmer)  
-  [Backpropagation Details Pt. 1 | StatQuest](https://www.youtube.com/watch?v=GKZoOHXGcLo&ab_channel=StatQuestwithJoshStarmer)
+  [Backpropagation Details Pt. 2 | StatQuest](https://www.youtube.com/watch?v=GKZoOHXGcLo&ab_channel=StatQuestwithJoshStarmer)
 </details>    
