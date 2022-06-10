@@ -6,8 +6,9 @@
 
 ```
 $conda activate new-env
-$conda install ipykernel
-$conda deactivate <--- ???
+$conda deactivate
+$conda install -c conda-forge nb_conda_kernels
+optional:
 $python -m ipykernel install --user --name new-env --display-name new-env-kernel
 ```
 - Jupyter Notebook Extentions:
