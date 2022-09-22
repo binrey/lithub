@@ -15,3 +15,7 @@ $python -m ipykernel install --user --name new-env --display-name new-env-kernel
 ```
 pip install jupyter_contrib_nbextensions && jupyter contrib nbextension install --user
 ```
+- Test TensorRT
+```
+/usr/src/tensorrt/bin/trtexec --loadEngine=path/to/engine --batch=1 --warmUp=5000 --duration=1 --iterations=1000 --streams=1
+```
